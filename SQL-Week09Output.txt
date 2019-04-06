@@ -1,0 +1,3590 @@
+> Use Sakila	0 row(s) affected	0.000 sec
+
+Execute:
+> SELECT first_name, last_name FROM actor
+
++ --------------- + -------------- +
+| first_name      | last_name      |
++ --------------- + -------------- +
+| PENELOPE        | GUINESS        |
+| NICK            | WAHLBERG       |
+| ED              | CHASE          |
+| JENNIFER        | DAVIS          |
+| JOHNNY          | LOLLOBRIGIDA   |
+| BETTE           | NICHOLSON      |
+| GRACE           | MOSTEL         |
+| MATTHEW         | JOHANSSON      |
+| JOE             | SWANK          |
+| CHRISTIAN       | GABLE          |
+| ZERO            | CAGE           |
+| KARL            | BERRY          |
+| UMA             | WOOD           |
+| VIVIEN          | BERGEN         |
+| CUBA            | OLIVIER        |
+| FRED            | COSTNER        |
+| HELEN           | VOIGHT         |
+| DAN             | TORN           |
+| BOB             | FAWCETT        |
+| LUCILLE         | TRACY          |
+| KIRSTEN         | PALTROW        |
+| ELVIS           | MARX           |
+| SANDRA          | KILMER         |
+| CAMERON         | STREEP         |
+| KEVIN           | BLOOM          |
+| RIP             | CRAWFORD       |
+| JULIA           | MCQUEEN        |
+| WOODY           | HOFFMAN        |
+| ALEC            | WAYNE          |
+| SANDRA          | PECK           |
+| SISSY           | SOBIESKI       |
+| TIM             | HACKMAN        |
+| MILLA           | PECK           |
+| AUDREY          | OLIVIER        |
+| JUDY            | DEAN           |
+| BURT            | DUKAKIS        |
+| VAL             | BOLGER         |
+| TOM             | MCKELLEN       |
+| GOLDIE          | BRODY          |
+| JOHNNY          | CAGE           |
+| JODIE           | DEGENERES      |
+| TOM             | MIRANDA        |
+| KIRK            | JOVOVICH       |
+| NICK            | STALLONE       |
+| REESE           | KILMER         |
+| PARKER          | GOLDBERG       |
+| JULIA           | BARRYMORE      |
+| FRANCES         | DAY-LEWIS      |
+| ANNE            | CRONYN         |
+| NATALIE         | HOPKINS        |
+| GARY            | PHOENIX        |
+| CARMEN          | HUNT           |
+| MENA            | TEMPLE         |
+| PENELOPE        | PINKETT        |
+| FAY             | KILMER         |
+| DAN             | HARRIS         |
+| JUDE            | CRUISE         |
+| CHRISTIAN       | AKROYD         |
+| DUSTIN          | TAUTOU         |
+| HENRY           | BERRY          |
+| CHRISTIAN       | NEESON         |
+| JAYNE           | NEESON         |
+| CAMERON         | WRAY           |
+| RAY             | JOHANSSON      |
+| ANGELA          | HUDSON         |
+| MARY            | TANDY          |
+| JESSICA         | BAILEY         |
+| RIP             | WINSLET        |
+| KENNETH         | PALTROW        |
+| MICHELLE        | MCCONAUGHEY    |
+| ADAM            | GRANT          |
+| SEAN            | WILLIAMS       |
+| GARY            | PENN           |
+| MILLA           | KEITEL         |
+| BURT            | POSEY          |
+| ANGELINA        | ASTAIRE        |
+| CARY            | MCCONAUGHEY    |
+| GROUCHO         | SINATRA        |
+| MAE             | HOFFMAN        |
+| RALPH           | CRUZ           |
+| SCARLETT        | DAMON          |
+| WOODY           | JOLIE          |
+| BEN             | WILLIS         |
+| JAMES           | PITT           |
+| MINNIE          | ZELLWEGER      |
+| GREG            | CHAPLIN        |
+| SPENCER         | PECK           |
+| KENNETH         | PESCI          |
+| CHARLIZE        | DENCH          |
+| SEAN            | GUINESS        |
+| CHRISTOPHER     | BERRY          |
+| KIRSTEN         | AKROYD         |
+| ELLEN           | PRESLEY        |
+| KENNETH         | TORN           |
+| DARYL           | WAHLBERG       |
+| GENE            | WILLIS         |
+| MEG             | HAWKE          |
+| CHRIS           | BRIDGES        |
+| JIM             | MOSTEL         |
+| SPENCER         | DEPP           |
+| SUSAN           | DAVIS          |
+| WALTER          | TORN           |
+| MATTHEW         | LEIGH          |
+| PENELOPE        | CRONYN         |
+| SIDNEY          | CROWE          |
+| GROUCHO         | DUNST          |
+| GINA            | DEGENERES      |
+| WARREN          | NOLTE          |
+| SYLVESTER       | DERN           |
+| SUSAN           | DAVIS          |
+| CAMERON         | ZELLWEGER      |
+| RUSSELL         | BACALL         |
+| MORGAN          | HOPKINS        |
+| MORGAN          | MCDORMAND      |
+| HARRISON        | BALE           |
+| DAN             | STREEP         |
+| RENEE           | TRACY          |
+| CUBA            | ALLEN          |
+| WARREN          | JACKMAN        |
+| PENELOPE        | MONROE         |
+| LIZA            | BERGMAN        |
+| SALMA           | NOLTE          |
+| JULIANNE        | DENCH          |
+| SCARLETT        | BENING         |
+| ALBERT          | NOLTE          |
+| FRANCES         | TOMEI          |
+| KEVIN           | GARLAND        |
+| CATE            | MCQUEEN        |
+| DARYL           | CRAWFORD       |
+| GRETA           | KEITEL         |
+| JANE            | JACKMAN        |
+| ADAM            | HOPPER         |
+| RICHARD         | PENN           |
+| GENE            | HOPKINS        |
+| RITA            | REYNOLDS       |
+| ED              | MANSFIELD      |
+| MORGAN          | WILLIAMS       |
+| LUCILLE         | DEE            |
+| EWAN            | GOODING        |
+| WHOOPI          | HURT           |
+| CATE            | HARRIS         |
+| JADA            | RYDER          |
+| RIVER           | DEAN           |
+| ANGELA          | WITHERSPOON    |
+| KIM             | ALLEN          |
+| ALBERT          | JOHANSSON      |
+| FAY             | WINSLET        |
+| EMILY           | DEE            |
+| RUSSELL         | TEMPLE         |
+| JAYNE           | NOLTE          |
+| GEOFFREY        | HESTON         |
+| BEN             | HARRIS         |
+| MINNIE          | KILMER         |
+| MERYL           | GIBSON         |
+| IAN             | TANDY          |
+| FAY             | WOOD           |
+| GRETA           | MALDEN         |
+| VIVIEN          | BASINGER       |
+| LAURA           | BRODY          |
+| CHRIS           | DEPP           |
+| HARVEY          | HOPE           |
+| OPRAH           | KILMER         |
+| CHRISTOPHER     | WEST           |
+| HUMPHREY        | WILLIS         |
+| AL              | GARLAND        |
+| NICK            | DEGENERES      |
+| LAURENCE        | BULLOCK        |
+| WILL            | WILSON         |
+| KENNETH         | HOFFMAN        |
+| MENA            | HOPPER         |
+| OLYMPIA         | PFEIFFER       |
+| GROUCHO         | WILLIAMS       |
+| ALAN            | DREYFUSS       |
+| MICHAEL         | BENING         |
+| WILLIAM         | HACKMAN        |
+| JON             | CHASE          |
+| GENE            | MCKELLEN       |
+| LISA            | MONROE         |
+| ED              | GUINESS        |
+| JEFF            | SILVERSTONE    |
+| MATTHEW         | CARREY         |
+| DEBBIE          | AKROYD         |
+| RUSSELL         | CLOSE          |
+| HUMPHREY        | GARLAND        |
+| MICHAEL         | BOLGER         |
+| JULIA           | ZELLWEGER      |
+| RENEE           | BALL           |
+| ROCK            | DUKAKIS        |
+| CUBA            | BIRCH          |
+| AUDREY          | BAILEY         |
+| GREGORY         | GOODING        |
+| JOHN            | SUVARI         |
+| BURT            | TEMPLE         |
+| MERYL           | ALLEN          |
+| JAYNE           | SILVERSTONE    |
+| BELA            | WALKEN         |
+| REESE           | WEST           |
+| MARY            | KEITEL         |
+| JULIA           | FAWCETT        |
+| THORA           | TEMPLE         |
++ --------------- + -------------- +
+200 rows
+
+Execute:
+> SELECT CONCAT(ucase(first_name), ' ', ucase(last_name)) AS "Actor Name" FROM actor
+
++ --------------- +
+| Actor Name      |
++ --------------- +
+| PENELOPE GUINESS |
+| NICK WAHLBERG   |
+| ED CHASE        |
+| JENNIFER DAVIS  |
+| JOHNNY LOLLOBRIGIDA |
+| BETTE NICHOLSON |
+| GRACE MOSTEL    |
+| MATTHEW JOHANSSON |
+| JOE SWANK       |
+| CHRISTIAN GABLE |
+| ZERO CAGE       |
+| KARL BERRY      |
+| UMA WOOD        |
+| VIVIEN BERGEN   |
+| CUBA OLIVIER    |
+| FRED COSTNER    |
+| HELEN VOIGHT    |
+| DAN TORN        |
+| BOB FAWCETT     |
+| LUCILLE TRACY   |
+| KIRSTEN PALTROW |
+| ELVIS MARX      |
+| SANDRA KILMER   |
+| CAMERON STREEP  |
+| KEVIN BLOOM     |
+| RIP CRAWFORD    |
+| JULIA MCQUEEN   |
+| WOODY HOFFMAN   |
+| ALEC WAYNE      |
+| SANDRA PECK     |
+| SISSY SOBIESKI  |
+| TIM HACKMAN     |
+| MILLA PECK      |
+| AUDREY OLIVIER  |
+| JUDY DEAN       |
+| BURT DUKAKIS    |
+| VAL BOLGER      |
+| TOM MCKELLEN    |
+| GOLDIE BRODY    |
+| JOHNNY CAGE     |
+| JODIE DEGENERES |
+| TOM MIRANDA     |
+| KIRK JOVOVICH   |
+| NICK STALLONE   |
+| REESE KILMER    |
+| PARKER GOLDBERG |
+| JULIA BARRYMORE |
+| FRANCES DAY-LEWIS |
+| ANNE CRONYN     |
+| NATALIE HOPKINS |
+| GARY PHOENIX    |
+| CARMEN HUNT     |
+| MENA TEMPLE     |
+| PENELOPE PINKETT |
+| FAY KILMER      |
+| DAN HARRIS      |
+| JUDE CRUISE     |
+| CHRISTIAN AKROYD |
+| DUSTIN TAUTOU   |
+| HENRY BERRY     |
+| CHRISTIAN NEESON |
+| JAYNE NEESON    |
+| CAMERON WRAY    |
+| RAY JOHANSSON   |
+| ANGELA HUDSON   |
+| MARY TANDY      |
+| JESSICA BAILEY  |
+| RIP WINSLET     |
+| KENNETH PALTROW |
+| MICHELLE MCCONAUGHEY |
+| ADAM GRANT      |
+| SEAN WILLIAMS   |
+| GARY PENN       |
+| MILLA KEITEL    |
+| BURT POSEY      |
+| ANGELINA ASTAIRE |
+| CARY MCCONAUGHEY |
+| GROUCHO SINATRA |
+| MAE HOFFMAN     |
+| RALPH CRUZ      |
+| SCARLETT DAMON  |
+| WOODY JOLIE     |
+| BEN WILLIS      |
+| JAMES PITT      |
+| MINNIE ZELLWEGER |
+| GREG CHAPLIN    |
+| SPENCER PECK    |
+| KENNETH PESCI   |
+| CHARLIZE DENCH  |
+| SEAN GUINESS    |
+| CHRISTOPHER BERRY |
+| KIRSTEN AKROYD  |
+| ELLEN PRESLEY   |
+| KENNETH TORN    |
+| DARYL WAHLBERG  |
+| GENE WILLIS     |
+| MEG HAWKE       |
+| CHRIS BRIDGES   |
+| JIM MOSTEL      |
+| SPENCER DEPP    |
+| SUSAN DAVIS     |
+| WALTER TORN     |
+| MATTHEW LEIGH   |
+| PENELOPE CRONYN |
+| SIDNEY CROWE    |
+| GROUCHO DUNST   |
+| GINA DEGENERES  |
+| WARREN NOLTE    |
+| SYLVESTER DERN  |
+| SUSAN DAVIS     |
+| CAMERON ZELLWEGER |
+| RUSSELL BACALL  |
+| MORGAN HOPKINS  |
+| MORGAN MCDORMAND |
+| HARRISON BALE   |
+| DAN STREEP      |
+| RENEE TRACY     |
+| CUBA ALLEN      |
+| WARREN JACKMAN  |
+| PENELOPE MONROE |
+| LIZA BERGMAN    |
+| SALMA NOLTE     |
+| JULIANNE DENCH  |
+| SCARLETT BENING |
+| ALBERT NOLTE    |
+| FRANCES TOMEI   |
+| KEVIN GARLAND   |
+| CATE MCQUEEN    |
+| DARYL CRAWFORD  |
+| GRETA KEITEL    |
+| JANE JACKMAN    |
+| ADAM HOPPER     |
+| RICHARD PENN    |
+| GENE HOPKINS    |
+| RITA REYNOLDS   |
+| ED MANSFIELD    |
+| MORGAN WILLIAMS |
+| LUCILLE DEE     |
+| EWAN GOODING    |
+| WHOOPI HURT     |
+| CATE HARRIS     |
+| JADA RYDER      |
+| RIVER DEAN      |
+| ANGELA WITHERSPOON |
+| KIM ALLEN       |
+| ALBERT JOHANSSON |
+| FAY WINSLET     |
+| EMILY DEE       |
+| RUSSELL TEMPLE  |
+| JAYNE NOLTE     |
+| GEOFFREY HESTON |
+| BEN HARRIS      |
+| MINNIE KILMER   |
+| MERYL GIBSON    |
+| IAN TANDY       |
+| FAY WOOD        |
+| GRETA MALDEN    |
+| VIVIEN BASINGER |
+| LAURA BRODY     |
+| CHRIS DEPP      |
+| HARVEY HOPE     |
+| OPRAH KILMER    |
+| CHRISTOPHER WEST |
+| HUMPHREY WILLIS |
+| AL GARLAND      |
+| NICK DEGENERES  |
+| LAURENCE BULLOCK |
+| WILL WILSON     |
+| KENNETH HOFFMAN |
+| MENA HOPPER     |
+| OLYMPIA PFEIFFER |
+| GROUCHO WILLIAMS |
+| ALAN DREYFUSS   |
+| MICHAEL BENING  |
+| WILLIAM HACKMAN |
+| JON CHASE       |
+| GENE MCKELLEN   |
+| LISA MONROE     |
+| ED GUINESS      |
+| JEFF SILVERSTONE |
+| MATTHEW CARREY  |
+| DEBBIE AKROYD   |
+| RUSSELL CLOSE   |
+| HUMPHREY GARLAND |
+| MICHAEL BOLGER  |
+| JULIA ZELLWEGER |
+| RENEE BALL      |
+| ROCK DUKAKIS    |
+| CUBA BIRCH      |
+| AUDREY BAILEY   |
+| GREGORY GOODING |
+| JOHN SUVARI     |
+| BURT TEMPLE     |
+| MERYL ALLEN     |
+| JAYNE SILVERSTONE |
+| BELA WALKEN     |
+| REESE WEST      |
+| MARY KEITEL     |
+| JULIA FAWCETT   |
+| THORA TEMPLE    |
++ --------------- +
+200 rows
+
+Execute:
+> SELECT actor_id, first_name, last_name
+FROM actor
+WHERE first_name = "Joe"
+
++ ------------- + --------------- + -------------- +
+| actor_id      | first_name      | last_name      |
++ ------------- + --------------- + -------------- +
+| 9             | JOE             | SWANK          |
++ ------------- + --------------- + -------------- +
+1 row
+
+Execute:
+> SELECT * FROM actor WHERE last_name LIKE '%GEN%'
+
++ ------------- + --------------- + -------------- + ---------------- +
+| actor_id      | first_name      | last_name      | last_update      |
++ ------------- + --------------- + -------------- + ---------------- +
+| 14            | VIVIEN          | BERGEN         | 2006-02-15 04:34:33 |
+| 41            | JODIE           | DEGENERES      | 2006-02-15 04:34:33 |
+| 107           | GINA            | DEGENERES      | 2006-02-15 04:34:33 |
+| 166           | NICK            | DEGENERES      | 2006-02-15 04:34:33 |
++ ------------- + --------------- + -------------- + ---------------- +
+4 rows
+
+Execute:
+> SELECT actor_id, last_name, first_name, last_update FROM actor WHERE last_name LIKE '%LI%' order by last_name, first_name
+
++ ------------- + -------------- + --------------- + ---------------- +
+| actor_id      | last_name      | first_name      | last_update      |
++ ------------- + -------------- + --------------- + ---------------- +
+| 86            | CHAPLIN        | GREG            | 2006-02-15 04:34:33 |
+| 82            | JOLIE          | WOODY           | 2006-02-15 04:34:33 |
+| 34            | OLIVIER        | AUDREY          | 2006-02-15 04:34:33 |
+| 15            | OLIVIER        | CUBA            | 2006-02-15 04:34:33 |
+| 172           | WILLIAMS       | GROUCHO         | 2019-04-05 11:03:36 |
+| 137           | WILLIAMS       | MORGAN          | 2006-02-15 04:34:33 |
+| 72            | WILLIAMS       | SEAN            | 2006-02-15 04:34:33 |
+| 83            | WILLIS         | BEN             | 2006-02-15 04:34:33 |
+| 96            | WILLIS         | GENE            | 2006-02-15 04:34:33 |
+| 164           | WILLIS         | HUMPHREY        | 2006-02-15 04:34:33 |
++ ------------- + -------------- + --------------- + ---------------- +
+10 rows
+
+Execute:
+> SELECT country_id, country
+FROM country
+WHERE country in ("Afghanistan", "Bangladesh", "China")
+
++ --------------- + ------------ +
+| country_id      | country      |
++ --------------- + ------------ +
+| 1               | Afghanistan  |
+| 12              | Bangladesh   |
+| 23              | China        |
++ --------------- + ------------ +
+3 rows
+
+> ALTER TABLE actor ADD COLUMN description BLOB	0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0	0.063 sec
+
+> ALTER TABLE actor DROP COLUMN description	0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0	0.312 sec
+
+
+Execute:
+> SELECT last_name, COUNT(last_name) AS actors_with_this_lastname
+FROM actor
+GROUP BY last_name
+
++ -------------- + ------------------------------ +
+| last_name      | actors_with_this_lastname      |
++ -------------- + ------------------------------ +
+| AKROYD         | 3                              |
+| ALLEN          | 3                              |
+| ASTAIRE        | 1                              |
+| BACALL         | 1                              |
+| BAILEY         | 2                              |
+| BALE           | 1                              |
+| BALL           | 1                              |
+| BARRYMORE      | 1                              |
+| BASINGER       | 1                              |
+| BENING         | 2                              |
+| BERGEN         | 1                              |
+| BERGMAN        | 1                              |
+| BERRY          | 3                              |
+| BIRCH          | 1                              |
+| BLOOM          | 1                              |
+| BOLGER         | 2                              |
+| BRIDGES        | 1                              |
+| BRODY          | 2                              |
+| BULLOCK        | 1                              |
+| CAGE           | 2                              |
+| CARREY         | 1                              |
+| CHAPLIN        | 1                              |
+| CHASE          | 2                              |
+| CLOSE          | 1                              |
+| COSTNER        | 1                              |
+| CRAWFORD       | 2                              |
+| CRONYN         | 2                              |
+| CROWE          | 1                              |
+| CRUISE         | 1                              |
+| CRUZ           | 1                              |
+| DAMON          | 1                              |
+| DAVIS          | 3                              |
+| DAY-LEWIS      | 1                              |
+| DEAN           | 2                              |
+| DEE            | 2                              |
+| DEGENERES      | 3                              |
+| DENCH          | 2                              |
+| DEPP           | 2                              |
+| DERN           | 1                              |
+| DREYFUSS       | 1                              |
+| DUKAKIS        | 2                              |
+| DUNST          | 1                              |
+| FAWCETT        | 2                              |
+| GABLE          | 1                              |
+| GARLAND        | 3                              |
+| GIBSON         | 1                              |
+| GOLDBERG       | 1                              |
+| GOODING        | 2                              |
+| GRANT          | 1                              |
+| GUINESS        | 3                              |
+| HACKMAN        | 2                              |
+| HARRIS         | 3                              |
+| HAWKE          | 1                              |
+| HESTON         | 1                              |
+| HOFFMAN        | 3                              |
+| HOPE           | 1                              |
+| HOPKINS        | 3                              |
+| HOPPER         | 2                              |
+| HUDSON         | 1                              |
+| HUNT           | 1                              |
+| HURT           | 1                              |
+| JACKMAN        | 2                              |
+| JOHANSSON      | 3                              |
+| JOLIE          | 1                              |
+| JOVOVICH       | 1                              |
+| KEITEL         | 3                              |
+| KILMER         | 5                              |
+| LEIGH          | 1                              |
+| LOLLOBRIGIDA   | 1                              |
+| MALDEN         | 1                              |
+| MANSFIELD      | 1                              |
+| MARX           | 1                              |
+| MCCONAUGHEY    | 2                              |
+| MCDORMAND      | 1                              |
+| MCKELLEN       | 2                              |
+| MCQUEEN        | 2                              |
+| MIRANDA        | 1                              |
+| MONROE         | 2                              |
+| MOSTEL         | 2                              |
+| NEESON         | 2                              |
+| NICHOLSON      | 1                              |
+| NOLTE          | 4                              |
+| OLIVIER        | 2                              |
+| PALTROW        | 2                              |
+| PECK           | 3                              |
+| PENN           | 2                              |
+| PESCI          | 1                              |
+| PFEIFFER       | 1                              |
+| PHOENIX        | 1                              |
+| PINKETT        | 1                              |
+| PITT           | 1                              |
+| POSEY          | 1                              |
+| PRESLEY        | 1                              |
+| REYNOLDS       | 1                              |
+| RYDER          | 1                              |
+| SILVERSTONE    | 2                              |
+| SINATRA        | 1                              |
+| SOBIESKI       | 1                              |
+| STALLONE       | 1                              |
+| STREEP         | 2                              |
+| SUVARI         | 1                              |
+| SWANK          | 1                              |
+| TANDY          | 2                              |
+| TAUTOU         | 1                              |
+| TEMPLE         | 4                              |
+| TOMEI          | 1                              |
+| TORN           | 3                              |
+| TRACY          | 2                              |
+| VOIGHT         | 1                              |
+| WAHLBERG       | 2                              |
+| WALKEN         | 1                              |
+| WAYNE          | 1                              |
+| WEST           | 2                              |
+| WILLIAMS       | 3                              |
+| WILLIS         | 3                              |
+| WILSON         | 1                              |
+| WINSLET        | 2                              |
+| WITHERSPOON    | 1                              |
+| WOOD           | 2                              |
+| WRAY           | 1                              |
+| ZELLWEGER      | 3                              |
++ -------------- + ------------------------------ +
+121 rows
+
+Execute:
+> SELECT last_name, COUNT(last_name) AS actors_with_this_lastname
+FROM actor
+GROUP BY last_name
+HAVING COUNT(last_name) > 2
+
++ -------------- + ------------------------------ +
+| last_name      | actors_with_this_lastname      |
++ -------------- + ------------------------------ +
+| AKROYD         | 3                              |
+| ALLEN          | 3                              |
+| BERRY          | 3                              |
+| DAVIS          | 3                              |
+| DEGENERES      | 3                              |
+| GARLAND        | 3                              |
+| GUINESS        | 3                              |
+| HARRIS         | 3                              |
+| HOFFMAN        | 3                              |
+| HOPKINS        | 3                              |
+| JOHANSSON      | 3                              |
+| KEITEL         | 3                              |
+| KILMER         | 5                              |
+| NOLTE          | 4                              |
+| PECK           | 3                              |
+| TEMPLE         | 4                              |
+| TORN           | 3                              |
+| WILLIAMS       | 3                              |
+| WILLIS         | 3                              |
+| ZELLWEGER      | 3                              |
++ -------------- + ------------------------------ +
+20 rows
+
+Execute:
+> SELECT * FROM actor
+WHERE first_name = "GROUCHO"
+AND last_name = "WILLIAMS"
+
++ ------------- + --------------- + -------------- + ---------------- +
+| actor_id      | first_name      | last_name      | last_update      |
++ ------------- + --------------- + -------------- + ---------------- +
+| 172           | GROUCHO         | WILLIAMS       | 2019-04-05 11:03:36 |
++ ------------- + --------------- + -------------- + ---------------- +
+1 row
+
+> UPDATE actor SET first_name = "HARPO" WHERE first_name = "GROUCHO" AND last_name = "WILLIAMS"	1 row(s) affected Rows matched: 1  Changed: 1  Warnings: 0	0.000 sec
+
+Execute:
+> SELECT * FROM actor
+WHERE first_name = "HARPO"
+AND last_name = "WILLIAMS"
+
++ ------------- + --------------- + -------------- + ---------------- +
+| actor_id      | first_name      | last_name      | last_update      |
++ ------------- + --------------- + -------------- + ---------------- +
+| 172           | HARPO           | WILLIAMS       | 2019-04-05 11:11:11 |
++ ------------- + --------------- + -------------- + ---------------- +
+1 row
+
+> UPDATE actor SET first_name = "GROUCHO" WHERE first_name = "HARPO" AND last_name = "WILLIAMS"	1 row(s) affected Rows matched: 1  Changed: 1  Warnings: 0	0.000 sec
+
+Execute:
+> SHOW CREATE TABLE address
+
++ ---------- + ----------------- +
+| Table      | Create Table      |
++ ---------- + ----------------- +
+| address    | CREATE TABLE `address` (
+  `address_id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
+  `address` varchar(50) NOT NULL,
+  `address2` varchar(50) DEFAULT NULL,
+  `district` varchar(20) NOT NULL,
+  `city_id` smallint(5) unsigned NOT NULL,
+  `postal_code` varchar(10) DEFAULT NULL,
+  `phone` varchar(20) NOT NULL,
+  `location` geometry NOT NULL,
+  `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`address_id`),
+  KEY `idx_fk_city_id` (`city_id`),
+  SPATIAL KEY `idx_location` (`location`),
+  CONSTRAINT `fk_address_city` FOREIGN KEY (`city_id`) REFERENCES `city` (`city_id`) ON DELETE RESTRICT ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=606 DEFAULT CHARSET=utf8 |
++ ---------- + ----------------- +
+1 row
+
+Execute:
+> SELECT s.first_name, s.last_name, a.address
+FROM address a
+INNER JOIN staff s
+ON a.address_id = s.address_id
+
++ --------------- + -------------- + ------------ +
+| first_name      | last_name      | address      |
++ --------------- + -------------- + ------------ +
+| Mike            | Hillyer        | 23 Workhaven Lane |
+| Jon             | Stephens       | 1411 Lillydale Drive |
++ --------------- + -------------- + ------------ +
+2 rows
+
+Execute:
+> SELECT s.staff_id AS "Staff Member", SUM(p.amount) AS "Total Amount"
+FROM staff s
+INNER JOIN (SELECT staff_id, amount
+			FROM payment
+            WHERE payment_date >= '2005-08-01' AND payment_date <= '2005-08-31') p
+ON s.staff_id = p.staff_id
+GROUP BY s.staff_id
+
++ ----------------- + ----------------- +
+| Staff Member      | Total Amount      |
++ ----------------- + ----------------- +
+| 2                 | 12218.48          |
+| 1                 | 11853.65          |
++ ----------------- + ----------------- +
+2 rows
+
+Execute:
+> SELECT f.title as Title, COUNT(fa.actor_id) AS "Number of Actors"
+FROM film f
+INNER JOIN film_actor fa
+ON f.film_id = fa.film_id
+GROUP BY f.title
+
++ ---------- + --------------------- +
+| Title      | Number of Actors      |
++ ---------- + --------------------- +
+| ACADEMY DINOSAUR | 10                    |
+| ACE GOLDFINGER | 4                     |
+| ADAPTATION HOLES | 5                     |
+| AFFAIR PREJUDICE | 5                     |
+| AFRICAN EGG | 5                     |
+| AGENT TRUMAN | 7                     |
+| AIRPLANE SIERRA | 5                     |
+| AIRPORT POLLOCK | 4                     |
+| ALABAMA DEVIL | 9                     |
+| ALADDIN CALENDAR | 8                     |
+| ALAMO VIDEOTAPE | 4                     |
+| ALASKA PHANTOM | 7                     |
+| ALI FOREVER | 5                     |
+| ALICE FANTASIA | 4                     |
+| ALIEN CENTER | 6                     |
+| ALLEY EVOLUTION | 5                     |
+| ALONE TRIP | 8                     |
+| ALTER VICTORY | 4                     |
+| AMADEUS HOLY | 6                     |
+| AMELIE HELLFIGHTERS | 6                     |
+| AMERICAN CIRCUS | 5                     |
+| AMISTAD MIDSUMMER | 4                     |
+| ANACONDA CONFESSIONS | 5                     |
+| ANALYZE HOOSIERS | 5                     |
+| ANGELS LIFE | 9                     |
+| ANNIE IDENTITY | 3                     |
+| ANONYMOUS HUMAN | 9                     |
+| ANTHEM LUKE | 2                     |
+| ANTITRUST TOMATOES | 7                     |
+| ANYTHING SAVANNAH | 3                     |
+| APACHE DIVINE | 4                     |
+| APOCALYPSE FLAMINGOS | 5                     |
+| APOLLO TEEN | 8                     |
+| ARABIA DOGMA | 12                    |
+| ARACHNOPHOBIA ROLLERCOASTER | 8                     |
+| ARGONAUTS TOWN | 5                     |
+| ARIZONA BANG | 4                     |
+| ARK RIDGEMONT | 3                     |
+| ARMAGEDDON LOST | 7                     |
+| ARMY FLINTSTONES | 7                     |
+| ARSENIC INDEPENDENCE | 3                     |
+| ARTIST COLDBLOODED | 7                     |
+| ATLANTIS CAUSE | 9                     |
+| ATTACKS HATE | 4                     |
+| ATTRACTION NEWTON | 4                     |
+| AUTUMN CROW | 3                     |
+| BABY HALL  | 8                     |
+| BACKLASH UNDEFEATED | 7                     |
+| BADMAN DAWN | 8                     |
+| BAKED CLEOPATRA | 1                     |
+| BALLOON HOMEWARD | 6                     |
+| BALLROOM MOCKINGBIRD | 7                     |
+| BANG KWAI  | 7                     |
+| BANGER PINOCCHIO | 6                     |
+| BARBARELLA STREETCAR | 5                     |
+| BAREFOOT MANCHURIAN | 8                     |
+| BASIC EASY | 6                     |
+| BEACH HEARTBREAKERS | 7                     |
+| BEAR GRACELAND | 3                     |
+| BEAST HUNCHBACK | 5                     |
+| BEAUTY GREASE | 5                     |
+| BED HIGHBALL | 5                     |
+| BEDAZZLED MARRIED | 7                     |
+| BEETHOVEN EXORCIST | 6                     |
+| BEHAVIOR RUNAWAY | 5                     |
+| BENEATH RUSH | 7                     |
+| BERETS AGENT | 10                    |
+| BETRAYED REAR | 4                     |
+| BEVERLY OUTLAW | 4                     |
+| BIKINI BORROWERS | 2                     |
+| BILKO ANONYMOUS | 3                     |
+| BILL OTHERS | 6                     |
+| BINGO TALENTED | 5                     |
+| BIRCH ANTITRUST | 6                     |
+| BIRD INDEPENDENCE | 2                     |
+| BIRDCAGE CASPER | 4                     |
+| BIRDS PERDITION | 4                     |
+| BLACKOUT PRIVATE | 5                     |
+| BLADE POLISH | 5                     |
+| BLANKET BEVERLY | 4                     |
+| BLINDNESS GUN | 3                     |
+| BLOOD ARGONAUTS | 4                     |
+| BLUES INSTINCT | 4                     |
+| BOILED DARES | 8                     |
+| BONNIE HOLOCAUST | 9                     |
+| BOOGIE AMELIE | 6                     |
+| BOONDOCK BALLROOM | 13                    |
+| BORN SPINAL | 9                     |
+| BORROWERS BEDAZZLED | 7                     |
+| BOULEVARD MOB | 8                     |
+| BOUND CHEAPER | 2                     |
+| BOWFINGER GABLES | 5                     |
+| BRANNIGAN SUNRISE | 2                     |
+| BRAVEHEART HUMAN | 4                     |
+| BREAKFAST GOLDFINGER | 5                     |
+| BREAKING HOME | 6                     |
+| BRIDE INTRIGUE | 1                     |
+| BRIGHT ENCOUNTERS | 4                     |
+| BRINGING HYSTERICAL | 2                     |
+| BROOKLYN DESERT | 5                     |
+| BROTHERHOOD BLANKET | 5                     |
+| BUBBLE GROSSE | 3                     |
+| BUCKET BROTHERHOOD | 6                     |
+| BUGSY SONG | 2                     |
+| BULL SHAWSHANK | 8                     |
+| BULWORTH COMMANDMENTS | 4                     |
+| BUNCH MINDS | 8                     |
+| BUTCH PANTHER | 3                     |
+| BUTTERFLY CHOCOLAT | 7                     |
+| CABIN FLASH | 4                     |
+| CADDYSHACK JEDI | 7                     |
+| CALENDAR GUNFIGHT | 8                     |
+| CALIFORNIA BIRDS | 2                     |
+| CAMELOT VACATION | 2                     |
+| CAMPUS REMEMBER | 3                     |
+| CANDIDATE PERDITION | 4                     |
+| CANDLES GRAPES | 7                     |
+| CANYON STOCK | 6                     |
+| CAPER MOTIONS | 7                     |
+| CARIBBEAN LIBERTY | 8                     |
+| CAROL TEXAS | 7                     |
+| CARRIE BUNCH | 7                     |
+| CASABLANCA SUPER | 4                     |
+| CASPER DRAGONFLY | 5                     |
+| CASSIDY WYOMING | 7                     |
+| CASUALTIES ENCINO | 5                     |
+| CAT CONEHEADS | 4                     |
+| CATCH AMISTAD | 5                     |
+| CAUSE DATE | 6                     |
+| CELEBRITY HORN | 4                     |
+| CENTER DINOSAUR | 4                     |
+| CHAINSAW UPTOWN | 2                     |
+| CHAMBER ITALIAN | 7                     |
+| CHAMPION FLATLINERS | 4                     |
+| CHANCE RESURRECTION | 6                     |
+| CHAPLIN LICENSE | 6                     |
+| CHARADE DUFFEL | 3                     |
+| CHARIOTS CONSPIRACY | 2                     |
+| CHASING FIGHT | 5                     |
+| CHEAPER CLYDE | 2                     |
+| CHICAGO NORTH | 8                     |
+| CHICKEN HELLFIGHTERS | 2                     |
+| CHILL LUCK | 5                     |
+| CHINATOWN GLADIATOR | 10                    |
+| CHISUM BEHAVIOR | 4                     |
+| CHITTY LOCK | 13                    |
+| CHOCOLAT HARRY | 5                     |
+| CHOCOLATE DUCK | 7                     |
+| CHRISTMAS MOONSHINE | 3                     |
+| CIDER DESIRE | 5                     |
+| CINCINATTI WHISPERER | 4                     |
+| CIRCUS YOUTH | 2                     |
+| CITIZEN SHREK | 8                     |
+| CLASH FREDDY | 7                     |
+| CLEOPATRA DEVIL | 7                     |
+| CLERKS ANGELS | 4                     |
+| CLOCKWORK PARADISE | 5                     |
+| CLONES PINOCCHIO | 5                     |
+| CLOSER BANG | 6                     |
+| CLUB GRAFFITI | 4                     |
+| CLUE GRAIL | 6                     |
+| CLUELESS BUCKET | 8                     |
+| CLYDE THEORY | 4                     |
+| COAST RAINBOW | 10                    |
+| COLDBLOODED DARLING | 4                     |
+| COLOR PHILADELPHIA | 7                     |
+| COMA HEAD  | 3                     |
+| COMANCHEROS ENEMY | 5                     |
+| COMFORTS RUSH | 5                     |
+| COMMAND DARLING | 8                     |
+| COMMANDMENTS EXPRESS | 4                     |
+| CONEHEADS SMOOCHY | 9                     |
+| CONFESSIONS MAGUIRE | 4                     |
+| CONFIDENTIAL INTERVIEW | 2                     |
+| CONFUSED CANDLES | 6                     |
+| CONGENIALITY QUEST | 3                     |
+| CONNECTICUT TRAMP | 7                     |
+| CONNECTION MICROCOSMOS | 7                     |
+| CONQUERER NUTS | 6                     |
+| CONSPIRACY SPIRIT | 4                     |
+| CONTACT ANONYMOUS | 5                     |
+| CONTROL ANTHEM | 3                     |
+| CONVERSATION DOWNHILL | 3                     |
+| CORE SUIT  | 4                     |
+| COWBOY DOOM | 5                     |
+| CRAFT OUTFIELD | 6                     |
+| CRANES RESERVOIR | 6                     |
+| CRAZY HOME | 13                    |
+| CREATURES SHAKESPEARE | 3                     |
+| CREEPERS KANE | 6                     |
+| CROOKED FROGMEN | 6                     |
+| CROSSING DIVORCE | 2                     |
+| CROSSROADS CASUALTIES | 8                     |
+| CROW GREASE | 10                    |
+| CROWDS TELEMARK | 4                     |
+| CRUELTY UNFORGIVEN | 2                     |
+| CRUSADE HONEY | 9                     |
+| CRYSTAL BREAKING | 5                     |
+| CUPBOARD SINNERS | 8                     |
+| CURTAIN VIDEOTAPE | 3                     |
+| CYCLONE FAMILY | 3                     |
+| DADDY PITTSBURGH | 5                     |
+| DAISY MENAGERIE | 7                     |
+| DALMATIONS SWEDEN | 6                     |
+| DANCES NONE | 5                     |
+| DANCING FEVER | 6                     |
+| DANGEROUS UPTOWN | 8                     |
+| DARES PLUTO | 10                    |
+| DARKNESS WAR | 2                     |
+| DARKO DORADO | 4                     |
+| DARLING BREAKING | 2                     |
+| DARN FORRESTER | 9                     |
+| DATE SPEED | 4                     |
+| DAUGHTER MADIGAN | 4                     |
+| DAWN POND  | 6                     |
+| DAY UNFAITHFUL | 5                     |
+| DAZED PUNK | 6                     |
+| DECEIVER BETRAYED | 4                     |
+| DEEP CRUSADE | 7                     |
+| DEER VIRGINIAN | 3                     |
+| DELIVERANCE MULHOLLAND | 3                     |
+| DESERT POSEIDON | 5                     |
+| DESIRE ALIEN | 7                     |
+| DESPERATE TRAINSPOTTING | 4                     |
+| DESTINATION JERK | 3                     |
+| DESTINY SATURDAY | 7                     |
+| DETAILS PACKER | 2                     |
+| DETECTIVE VISION | 3                     |
+| DEVIL DESIRE | 5                     |
+| DIARY PANIC | 4                     |
+| DINOSAUR SECRETARY | 6                     |
+| DIRTY ACE  | 5                     |
+| DISCIPLE MOTHER | 7                     |
+| DISTURBING SCARFACE | 4                     |
+| DIVIDE MONSTER | 6                     |
+| DIVINE RESURRECTION | 5                     |
+| DIVORCE SHINING | 6                     |
+| DOCTOR GRAIL | 6                     |
+| DOGMA FAMILY | 7                     |
+| DOLLS RAGE | 1                     |
+| DONNIE ALLEY | 7                     |
+| DOOM DANCING | 8                     |
+| DOORS PRESIDENT | 9                     |
+| DORADO NOTTING | 4                     |
+| DOUBLE WRATH | 8                     |
+| DOUBTFIRE LABYRINTH | 5                     |
+| DOWNHILL ENOUGH | 4                     |
+| DOZEN LION | 6                     |
+| DRACULA CRYSTAL | 13                    |
+| DRAGON SQUAD | 8                     |
+| DRAGONFLY STRANGERS | 3                     |
+| DREAM PICKUP | 4                     |
+| DRIFTER COMMANDMENTS | 7                     |
+| DRIVER ANNIE | 8                     |
+| DRIVING POLISH | 7                     |
+| DROP WATERFRONT | 8                     |
+| DRUMS DYNAMITE | 7                     |
+| DUCK RACER | 2                     |
+| DUDE BLINDNESS | 7                     |
+| DUFFEL APOCALYPSE | 3                     |
+| DUMBO LUST | 9                     |
+| DURHAM PANKY | 9                     |
+| DWARFS ALTER | 1                     |
+| DYING MAKER | 2                     |
+| DYNAMITE TARZAN | 5                     |
+| EAGLES PANKY | 6                     |
+| EARLY HOME | 6                     |
+| EARRING INSTINCT | 5                     |
+| EARTH VISION | 3                     |
+| EASY GLADIATOR | 3                     |
+| EDGE KISSING | 3                     |
+| EFFECT GLADIATOR | 7                     |
+| EGG IGBY   | 5                     |
+| EGYPT TENENBAUMS | 5                     |
+| ELEMENT FREDDY | 4                     |
+| ELEPHANT TROJAN | 5                     |
+| ELF MURDER | 5                     |
+| ELIZABETH SHANE | 3                     |
+| EMPIRE MALKOVICH | 9                     |
+| ENCINO ELF | 6                     |
+| ENCOUNTERS CURTAIN | 4                     |
+| ENDING CROWDS | 5                     |
+| ENEMY ODDS | 4                     |
+| ENGLISH BULWORTH | 5                     |
+| ENOUGH RAGING | 9                     |
+| ENTRAPMENT SATISFACTION | 4                     |
+| ESCAPE METROPOLIS | 4                     |
+| EVE RESURRECTION | 6                     |
+| EVERYONE CRAFT | 5                     |
+| EVOLUTION ALTER | 6                     |
+| EXCITEMENT EVE | 8                     |
+| EXORCIST STING | 5                     |
+| EXPECATIONS NATURAL | 3                     |
+| EXPENDABLE STALLION | 4                     |
+| EXPRESS LONELY | 8                     |
+| EXTRAORDINARY CONQUERER | 7                     |
+| EYES DRIVING | 5                     |
+| FACTORY DRAGON | 6                     |
+| FALCON VOLUME | 4                     |
+| FAMILY SWEET | 9                     |
+| FANTASIA PARK | 3                     |
+| FANTASY TROOPERS | 9                     |
+| FARGO GANDHI | 5                     |
+| FATAL HAUNTED | 6                     |
+| FEATHERS METAL | 9                     |
+| FELLOWSHIP AUTUMN | 7                     |
+| FERRIS MOTHER | 1                     |
+| FEUD FROGMEN | 4                     |
+| FEVER EMPIRE | 3                     |
+| FICTION CHRISTMAS | 8                     |
+| FIDDLER LOST | 11                    |
+| FIDELITY DEVIL | 4                     |
+| FIGHT JAWBREAKER | 3                     |
+| FINDING ANACONDA | 5                     |
+| FIRE WOLVES | 5                     |
+| FIREBALL PHILADELPHIA | 5                     |
+| FIREHOUSE VIETNAM | 5                     |
+| FISH OPUS  | 2                     |
+| FLAMINGOS CONNECTICUT | 9                     |
+| FLASH WARS | 7                     |
+| FLATLINERS KILLER | 9                     |
+| FLINTSTONES HAPPINESS | 4                     |
+| FLOATS GARDEN | 5                     |
+| FLYING HOOK | 8                     |
+| FOOL MOCKINGBIRD | 2                     |
+| FOREVER CANDIDATE | 1                     |
+| FORREST SONS | 5                     |
+| FORRESTER COMANCHEROS | 3                     |
+| FORWARD TEMPLE | 3                     |
+| FRANKENSTEIN STRANGER | 2                     |
+| FREAKY POCUS | 5                     |
+| FREDDY STORM | 3                     |
+| FREEDOM CLEOPATRA | 5                     |
+| FRENCH HOLIDAY | 7                     |
+| FRIDA SLIPPER | 5                     |
+| FRISCO FORREST | 9                     |
+| FROGMEN BREAKING | 6                     |
+| FRONTIER CABIN | 6                     |
+| FROST HEAD | 7                     |
+| FUGITIVE MAGUIRE | 11                    |
+| FULL FLATLINERS | 6                     |
+| FURY MURDER | 4                     |
+| GABLES METROPOLIS | 8                     |
+| GALAXY SWEETHEARTS | 3                     |
+| GAMES BOWFINGER | 8                     |
+| GANDHI KWAI | 8                     |
+| GANGS PRIDE | 4                     |
+| GARDEN ISLAND | 3                     |
+| GASLIGHT CRUSADE | 5                     |
+| GATHERING CALENDAR | 3                     |
+| GENTLEMEN STAGE | 8                     |
+| GHOST GROUNDHOG | 5                     |
+| GHOSTBUSTERS ELF | 1                     |
+| GIANT TROOPERS | 1                     |
+| GILBERT PELICAN | 4                     |
+| GILMORE BOILED | 6                     |
+| GLADIATOR WESTWARD | 6                     |
+| GLASS DYING | 4                     |
+| GLEAMING JAWBREAKER | 8                     |
+| GLORY TRACY | 6                     |
+| GO PURPLE  | 3                     |
+| GODFATHER DIARY | 6                     |
+| GOLD RIVER | 2                     |
+| GOLDFINGER SENSIBILITY | 4                     |
+| GOLDMINE TYCOON | 7                     |
+| GONE TROUBLE | 5                     |
+| GOODFELLAS SALUTE | 8                     |
+| GORGEOUS BINGO | 7                     |
+| GOSFORD DONNIE | 3                     |
+| GRACELAND DYNAMITE | 6                     |
+| GRADUATE LORD | 2                     |
+| GRAFFITI LOVE | 6                     |
+| GRAIL FRANKENSTEIN | 5                     |
+| GRAPES FURY | 5                     |
+| GREASE YOUTH | 3                     |
+| GREATEST NORTH | 6                     |
+| GREEDY ROOTS | 8                     |
+| GREEK EVERYONE | 4                     |
+| GRINCH MASSAGE | 6                     |
+| GRIT CLOCKWORK | 3                     |
+| GROOVE FICTION | 7                     |
+| GROSSE WONDERFUL | 4                     |
+| GROUNDHOG UNCUT | 7                     |
+| GUMP DATE  | 6                     |
+| GUN BONNIE | 5                     |
+| GUNFIGHT MOON | 4                     |
+| GUNFIGHTER MUSSOLINI | 4                     |
+| GUYS FALCON | 5                     |
+| HALF OUTFIELD | 6                     |
+| HALL CASSIDY | 5                     |
+| HALLOWEEN NUTS | 7                     |
+| HAMLET WISDOM | 5                     |
+| HANDICAP BOONDOCK | 7                     |
+| HANGING DEEP | 7                     |
+| HANKY OCTOBER | 3                     |
+| HANOVER GALAXY | 7                     |
+| HAPPINESS UNITED | 5                     |
+| HARDLY ROBBERS | 3                     |
+| HAROLD FRENCH | 7                     |
+| HARPER DYING | 4                     |
+| HARRY IDAHO | 6                     |
+| HATE HANDICAP | 3                     |
+| HAUNTED ANTITRUST | 5                     |
+| HAUNTING PIANIST | 5                     |
+| HAWK CHILL | 7                     |
+| HEAD STRANGER | 2                     |
+| HEARTBREAKERS BRIGHT | 5                     |
+| HEAVEN FREEDOM | 10                    |
+| HEAVENLY GUN | 6                     |
+| HEAVYWEIGHTS BEAST | 5                     |
+| HEDWIG ALTER | 4                     |
+| HELLFIGHTERS SIERRA | 12                    |
+| HIGH ENCINO | 7                     |
+| HIGHBALL POTTER | 5                     |
+| HILLS NEIGHBORS | 6                     |
+| HOBBIT ALIEN | 8                     |
+| HOCUS FRIDA | 3                     |
+| HOLES BRANNIGAN | 11                    |
+| HOLIDAY GAMES | 6                     |
+| HOLLOW JEOPARDY | 2                     |
+| HOLLYWOOD ANONYMOUS | 6                     |
+| HOLOCAUST HIGHBALL | 5                     |
+| HOLY TADPOLE | 3                     |
+| HOME PITY  | 6                     |
+| HOMEWARD CIDER | 7                     |
+| HOMICIDE PEACH | 8                     |
+| HONEY TIES | 5                     |
+| HOOK CHARIOTS | 4                     |
+| HOOSIERS BIRDCAGE | 10                    |
+| HOPE TOOTSIE | 4                     |
+| HORN WORKING | 8                     |
+| HORROR REIGN | 5                     |
+| HOTEL HAPPINESS | 4                     |
+| HOURS RAGE | 6                     |
+| HOUSE DYNAMITE | 9                     |
+| HUMAN GRAFFITI | 4                     |
+| HUNCHBACK IMPOSSIBLE | 2                     |
+| HUNGER ROOF | 1                     |
+| HUNTER ALTER | 4                     |
+| HUNTING MUSKETEERS | 5                     |
+| HURRICANE AFFAIR | 3                     |
+| HUSTLER PARTY | 4                     |
+| HYDE DOCTOR | 6                     |
+| HYSTERICAL GRAIL | 9                     |
+| ICE CROSSING | 6                     |
+| IDAHO LOVE | 6                     |
+| IDENTITY LOVER | 4                     |
+| IDOLS SNATCHERS | 8                     |
+| IGBY MAKER | 5                     |
+| ILLUSION AMELIE | 7                     |
+| IMAGE PRINCESS | 11                    |
+| IMPACT ALADDIN | 3                     |
+| IMPOSSIBLE PREJUDICE | 3                     |
+| INCH JET   | 5                     |
+| INDEPENDENCE HOTEL | 9                     |
+| INDIAN LOVE | 10                    |
+| INFORMER DOUBLE | 3                     |
+| INNOCENT USUAL | 3                     |
+| INSECTS STONE | 4                     |
+| INSIDER ARIZONA | 9                     |
+| INSTINCT AIRPORT | 11                    |
+| INTENTIONS EMPIRE | 2                     |
+| INTERVIEW LIAISONS | 5                     |
+| INTOLERABLE INTENTIONS | 6                     |
+| INTRIGUE WORST | 7                     |
+| INVASION CYCLONE | 7                     |
+| IRON MOON  | 8                     |
+| ISHTAR ROCKETEER | 4                     |
+| ISLAND EXORCIST | 3                     |
+| ITALIAN AFRICAN | 2                     |
+| JACKET FRISCO | 10                    |
+| JADE BUNCH | 8                     |
+| JAPANESE RUN | 9                     |
+| JASON TRAP | 5                     |
+| JAWBREAKER BROOKLYN | 5                     |
+| JAWS HARRY | 5                     |
+| JEDI BENEATH | 4                     |
+| JEEPERS WEDDING | 6                     |
+| JEKYLL FROGMEN | 3                     |
+| JEOPARDY ENCINO | 5                     |
+| JERICHO MULAN | 4                     |
+| JERK PAYCHECK | 8                     |
+| JERSEY SASSY | 9                     |
+| JET NEIGHBORS | 6                     |
+| JINGLE SAGEBRUSH | 2                     |
+| JOON NORTHWEST | 2                     |
+| JUGGLER HARDLY | 9                     |
+| JUMANJI BLADE | 6                     |
+| JUMPING WRATH | 8                     |
+| JUNGLE CLOSER | 6                     |
+| KANE EXORCIST | 5                     |
+| KARATE MOON | 8                     |
+| KENTUCKIAN GIANT | 4                     |
+| KICK SAVANNAH | 6                     |
+| KILL BROTHERHOOD | 5                     |
+| KILLER INNOCENT | 5                     |
+| KING EVOLUTION | 6                     |
+| KISS GLORY | 7                     |
+| KISSING DOLLS | 3                     |
+| KNOCK WARLOCK | 6                     |
+| KRAMER CHOCOLATE | 8                     |
+| KWAI HOMEWARD | 5                     |
+| LABYRINTH LEAGUE | 6                     |
+| LADY STAGE | 8                     |
+| LADYBUGS ARMAGEDDON | 4                     |
+| LAMBS CINCINATTI | 15                    |
+| LANGUAGE COWBOY | 6                     |
+| LAWLESS VISION | 4                     |
+| LAWRENCE LOVE | 2                     |
+| LEAGUE HELLFIGHTERS | 6                     |
+| LEATHERNECKS DWARFS | 7                     |
+| LEBOWSKI SOLDIERS | 3                     |
+| LEGALLY SECRETARY | 6                     |
+| LEGEND JEDI | 4                     |
+| LESSON CLEOPATRA | 12                    |
+| LIAISONS SWEET | 6                     |
+| LIBERTY MAGNIFICENT | 7                     |
+| LICENSE WEEKEND | 8                     |
+| LIES TREATMENT | 7                     |
+| LIFE TWISTED | 8                     |
+| LIGHTS DEER | 2                     |
+| LION UNCUT | 3                     |
+| LOATHING LEGALLY | 5                     |
+| LOCK REAR  | 2                     |
+| LOLA AGENT | 6                     |
+| LOLITA WORLD | 1                     |
+| LONELY ELEPHANT | 12                    |
+| LORD ARIZONA | 6                     |
+| LOSE INCH  | 4                     |
+| LOSER HUSTLER | 5                     |
+| LOST BIRD  | 3                     |
+| LOUISIANA HARRY | 3                     |
+| LOVE SUICIDES | 4                     |
+| LOVELY JINGLE | 6                     |
+| LOVER TRUMAN | 7                     |
+| LOVERBOY ATTACKS | 9                     |
+| LUCK OPUS  | 6                     |
+| LUCKY FLYING | 10                    |
+| LUKE MUMMY | 9                     |
+| LUST LOCK  | 7                     |
+| MADIGAN DORADO | 6                     |
+| MADISON TRAP | 5                     |
+| MADNESS ATTACKS | 7                     |
+| MADRE GABLES | 4                     |
+| MAGIC MALLRATS | 4                     |
+| MAGNIFICENT CHITTY | 7                     |
+| MAGNOLIA FORRESTER | 7                     |
+| MAGUIRE APACHE | 4                     |
+| MAIDEN HOME | 8                     |
+| MAJESTIC FLOATS | 5                     |
+| MAKER GABLES | 11                    |
+| MALKOVICH PET | 7                     |
+| MALLRATS UNITED | 5                     |
+| MALTESE HOPE | 1                     |
+| MANCHURIAN CURTAIN | 2                     |
+| MANNEQUIN WORST | 5                     |
+| MARRIED GO | 3                     |
+| MARS ROMAN | 7                     |
+| MASK PEACH | 11                    |
+| MASKED BUBBLE | 3                     |
+| MASSACRE USUAL | 3                     |
+| MASSAGE IMAGE | 9                     |
+| MATRIX SNOWMAN | 3                     |
+| MAUDE MOD  | 6                     |
+| MEET CHOCOLATE | 6                     |
+| MEMENTO ZOOLANDER | 6                     |
+| MENAGERIE RUSHMORE | 2                     |
+| MERMAID INSECTS | 6                     |
+| METAL ARMAGEDDON | 8                     |
+| METROPOLIS COMA | 6                     |
+| MICROCOSMOS PARADISE | 6                     |
+| MIDNIGHT WESTWARD | 9                     |
+| MIDSUMMER GROUNDHOG | 2                     |
+| MIGHTY LUCK | 8                     |
+| MILE MULAN | 3                     |
+| MILLION ACE | 5                     |
+| MINDS TRUMAN | 6                     |
+| MINE TITANS | 2                     |
+| MINORITY KISS | 1                     |
+| MIRACLE VIRTUAL | 1                     |
+| MISSION ZOOLANDER | 5                     |
+| MIXED DOORS | 6                     |
+| MOB DUFFEL | 6                     |
+| MOCKINGBIRD HOLLYWOOD | 3                     |
+| MOD SECRETARY | 6                     |
+| MODEL FISH | 8                     |
+| MODERN DORADO | 5                     |
+| MONEY HAROLD | 7                     |
+| MONSOON CAUSE | 5                     |
+| MONSTER SPARTACUS | 7                     |
+| MONTEREY LABYRINTH | 6                     |
+| MONTEZUMA COMMAND | 2                     |
+| MOON BUNCH | 1                     |
+| MOONSHINE CABIN | 5                     |
+| MOONWALKER FOOL | 7                     |
+| MOSQUITO ARMAGEDDON | 4                     |
+| MOTHER OLEANDER | 5                     |
+| MOTIONS DETAILS | 8                     |
+| MOULIN WAKE | 3                     |
+| MOURNING PURPLE | 7                     |
+| MOVIE SHAKESPEARE | 8                     |
+| MULAN MOON | 5                     |
+| MULHOLLAND BEAST | 6                     |
+| MUMMY CREATURES | 13                    |
+| MUPPET MILE | 8                     |
+| MURDER ANTITRUST | 8                     |
+| MUSCLE BRIGHT | 5                     |
+| MUSIC BOONDOCK | 3                     |
+| MUSKETEERS WAIT | 1                     |
+| MUSSOLINI SPOILERS | 7                     |
+| MYSTIC TRUMAN | 4                     |
+| NAME DETECTIVE | 3                     |
+| NASH CHOCOLAT | 7                     |
+| NATIONAL STORY | 7                     |
+| NATURAL STOCK | 4                     |
+| NECKLACE OUTBREAK | 8                     |
+| NEIGHBORS CHARADE | 7                     |
+| NEMO CAMPUS | 5                     |
+| NETWORK PEAK | 3                     |
+| NEWSIES STORY | 8                     |
+| NEWTON LABYRINTH | 4                     |
+| NIGHTMARE CHILL | 2                     |
+| NONE SPIKING | 6                     |
+| NOON PAPI  | 6                     |
+| NORTH TEQUILA | 5                     |
+| NORTHWEST POLISH | 8                     |
+| NOTORIOUS REUNION | 2                     |
+| NOTTING SPEAKEASY | 2                     |
+| NOVOCAINE FLIGHT | 6                     |
+| NUTS TIES  | 2                     |
+| OCTOBER SUBMARINE | 5                     |
+| ODDS BOOGIE | 5                     |
+| OKLAHOMA JUMANJI | 9                     |
+| OLEANDER CLUE | 10                    |
+| OPEN AFRICAN | 9                     |
+| OPERATION OPERATION | 3                     |
+| OPPOSITE NECKLACE | 6                     |
+| OPUS ICE   | 4                     |
+| ORANGE GRAPES | 5                     |
+| ORDER BETRAYED | 7                     |
+| ORIENT CLOSER | 4                     |
+| OSCAR GOLD | 6                     |
+| OTHERS SOUP | 4                     |
+| OUTBREAK DIVINE | 5                     |
+| OUTFIELD MASSACRE | 4                     |
+| OUTLAW HANKY | 7                     |
+| OZ LIAISONS | 11                    |
+| PACIFIC AMISTAD | 8                     |
+| PACKER MADIGAN | 1                     |
+| PAJAMA JAWBREAKER | 5                     |
+| PANIC CLUB | 3                     |
+| PANKY SUBMARINE | 8                     |
+| PANTHER REDS | 5                     |
+| PAPI NECKLACE | 3                     |
+| PARADISE SABRINA | 4                     |
+| PARIS WEEKEND | 6                     |
+| PARK CITIZEN | 6                     |
+| PARTY KNOCK | 2                     |
+| PAST SUICIDES | 6                     |
+| PATHS CONTROL | 5                     |
+| PATIENT SISTER | 4                     |
+| PATRIOT ROMAN | 4                     |
+| PATTON INTERVIEW | 9                     |
+| PAYCHECK WAIT | 3                     |
+| PEACH INNOCENT | 5                     |
+| PEAK FOREVER | 5                     |
+| PEARL DESTINY | 4                     |
+| PELICAN COMFORTS | 5                     |
+| PERDITION FARGO | 5                     |
+| PERFECT GROOVE | 6                     |
+| PERSONAL LADYBUGS | 9                     |
+| PET HAUNTING | 7                     |
+| PHANTOM GLORY | 2                     |
+| PHILADELPHIA WIFE | 2                     |
+| PIANIST OUTFIELD | 5                     |
+| PICKUP DRIVING | 5                     |
+| PILOT HOOSIERS | 7                     |
+| PINOCCHIO SIMON | 11                    |
+| PIRATES ROXANNE | 1                     |
+| PITTSBURGH HUNCHBACK | 5                     |
+| PITY BOUND | 5                     |
+| PIZZA JUMANJI | 5                     |
+| PLATOON INSTINCT | 5                     |
+| PLUTO OLEANDER | 7                     |
+| POCUS PULP | 5                     |
+| POLISH BROOKLYN | 10                    |
+| POLLOCK DELIVERANCE | 6                     |
+| POND SEATTLE | 3                     |
+| POSEIDON FOREVER | 6                     |
+| POTLUCK MIXED | 6                     |
+| POTTER CONNECTICUT | 7                     |
+| PREJUDICE OLEANDER | 10                    |
+| PRESIDENT BANG | 5                     |
+| PRIDE ALAMO | 4                     |
+| PRIMARY GLASS | 7                     |
+| PRINCESS GIANT | 5                     |
+| PRIVATE DROP | 5                     |
+| PRIX UNDEFEATED | 7                     |
+| PSYCHO SHRUNK | 1                     |
+| PULP BEVERLY | 7                     |
+| PUNK DIVORCE | 7                     |
+| PURE RUNNER | 2                     |
+| PURPLE MOVIE | 8                     |
+| QUEEN LUKE | 6                     |
+| QUEST MUSSOLINI | 5                     |
+| QUILLS BULL | 4                     |
+| RACER EGG  | 6                     |
+| RAGE GAMES | 7                     |
+| RAGING AIRPLANE | 3                     |
+| RAIDERS ANTITRUST | 6                     |
+| RAINBOW SHOCK | 6                     |
+| RANDOM GO  | 13                    |
+| RANGE MOONWALKER | 4                     |
+| REAP UNFAITHFUL | 4                     |
+| REAR TRADING | 8                     |
+| REBEL AIRPORT | 6                     |
+| RECORDS ZORRO | 8                     |
+| REDEMPTION COMFORTS | 5                     |
+| REDS POCUS | 5                     |
+| REEF SALUTE | 4                     |
+| REIGN GENTLEMEN | 3                     |
+| REMEMBER DIARY | 4                     |
+| REQUIEM TYCOON | 8                     |
+| RESERVOIR ADAPTATION | 8                     |
+| RESURRECTION SILVERADO | 5                     |
+| REUNION WITCHES | 7                     |
+| RIDER CADDYSHACK | 9                     |
+| RIDGEMONT SUBMARINE | 5                     |
+| RIGHT CRANES | 7                     |
+| RINGS HEARTBREAKERS | 11                    |
+| RIVER OUTLAW | 4                     |
+| ROAD ROXANNE | 8                     |
+| ROBBERS JOON | 5                     |
+| ROBBERY BRIGHT | 2                     |
+| ROCK INSTINCT | 8                     |
+| ROCKETEER MOTHER | 7                     |
+| ROCKY WAR  | 3                     |
+| ROLLERCOASTER BRINGING | 3                     |
+| ROMAN PUNK | 2                     |
+| ROOF CHAMPION | 5                     |
+| ROOM ROMAN | 2                     |
+| ROOTS REMEMBER | 10                    |
+| ROSES TREASURE | 5                     |
+| ROUGE SQUAD | 4                     |
+| ROXANNE REBEL | 5                     |
+| RUGRATS SHAKESPEARE | 6                     |
+| RULES HUMAN | 5                     |
+| RUN PACIFIC | 6                     |
+| RUNAWAY TENENBAUMS | 3                     |
+| RUNNER MADIGAN | 8                     |
+| RUSH GOODFELLAS | 5                     |
+| RUSHMORE MERMAID | 7                     |
+| SABRINA MIDNIGHT | 4                     |
+| SADDLE ANTITRUST | 3                     |
+| SAGEBRUSH CLUELESS | 7                     |
+| SAINTS BRIDE | 10                    |
+| SALUTE APOLLO | 4                     |
+| SAMURAI LION | 2                     |
+| SANTA PARIS | 6                     |
+| SASSY PACKER | 3                     |
+| SATISFACTION CONFIDENTIAL | 5                     |
+| SATURDAY LAMBS | 9                     |
+| SATURN NAME | 2                     |
+| SAVANNAH TOWN | 6                     |
+| SCALAWAG DUCK | 5                     |
+| SCARFACE BANG | 7                     |
+| SCHOOL JACKET | 8                     |
+| SCISSORHANDS SLUMS | 5                     |
+| SCORPION APOLLO | 8                     |
+| SEA VIRGIN | 8                     |
+| SEABISCUIT PUNK | 3                     |
+| SEARCHERS WAIT | 4                     |
+| SEATTLE EXPECATIONS | 6                     |
+| SECRET GROUNDHOG | 3                     |
+| SECRETARY ROUGE | 6                     |
+| SECRETS PARADISE | 6                     |
+| SENSE GREEK | 7                     |
+| SENSIBILITY REAR | 6                     |
+| SEVEN SWARM | 7                     |
+| SHAKESPEARE SADDLE | 6                     |
+| SHANE DARKNESS | 3                     |
+| SHANGHAI TYCOON | 8                     |
+| SHAWSHANK BUBBLE | 10                    |
+| SHEPHERD MIDSUMMER | 5                     |
+| SHINING ROSES | 5                     |
+| SHIP WONDERLAND | 8                     |
+| SHOCK CABIN | 1                     |
+| SHOOTIST SUPERFLY | 3                     |
+| SHOW LORD  | 2                     |
+| SHREK LICENSE | 3                     |
+| SHRUNK DIVINE | 4                     |
+| SIDE ARK   | 6                     |
+| SIEGE MADRE | 7                     |
+| SIERRA DIVIDE | 5                     |
+| SILENCE KANE | 4                     |
+| SILVERADO GOLDFINGER | 5                     |
+| SIMON NORTH | 3                     |
+| SINNERS ATLANTIS | 4                     |
+| SISTER FREDDY | 3                     |
+| SKY MIRACLE | 12                    |
+| SLEEPING SUSPECTS | 4                     |
+| SLEEPLESS MONSOON | 4                     |
+| SLEEPY JAPANESE | 6                     |
+| SLEUTH ORIENT | 7                     |
+| SLING LUKE | 3                     |
+| SLIPPER FIDELITY | 7                     |
+| SLUMS DUCK | 3                     |
+| SMILE EARRING | 8                     |
+| SMOKING BARBARELLA | 6                     |
+| SMOOCHY CONTROL | 2                     |
+| SNATCH SLIPPER | 3                     |
+| SNATCHERS MONTEZUMA | 9                     |
+| SNOWMAN ROLLERCOASTER | 3                     |
+| SOLDIERS EVOLUTION | 9                     |
+| SOMETHING DUCK | 3                     |
+| SONG HEDWIG | 5                     |
+| SONS INTERVIEW | 6                     |
+| SORORITY QUEEN | 4                     |
+| SOUP WISDOM | 2                     |
+| SOUTH WAIT | 2                     |
+| SPARTACUS CHEAPER | 3                     |
+| SPEAKEASY DATE | 3                     |
+| SPEED SUIT | 6                     |
+| SPICE SORORITY | 11                    |
+| SPIKING ELEMENT | 6                     |
+| SPINAL ROCKY | 8                     |
+| SPIRIT FLINTSTONES | 11                    |
+| SPIRITED CASUALTIES | 5                     |
+| SPLASH GUMP | 10                    |
+| SPLENDOR PATTON | 10                    |
+| SPOILERS HELLFIGHTERS | 7                     |
+| SPY MILE   | 8                     |
+| SQUAD FISH | 5                     |
+| STAGE WORLD | 2                     |
+| STAGECOACH ARMAGEDDON | 6                     |
+| STALLION SUNDANCE | 7                     |
+| STAMPEDE DISTURBING | 6                     |
+| STAR OPERATION | 5                     |
+| STATE WASTELAND | 7                     |
+| STEEL SANTA | 3                     |
+| STEERS ARMAGEDDON | 4                     |
+| STEPMOM DREAM | 4                     |
+| STING PERSONAL | 7                     |
+| STOCK GLASS | 7                     |
+| STONE FIRE | 1                     |
+| STORM HAPPINESS | 8                     |
+| STORY SIDE | 5                     |
+| STRAIGHT HOURS | 3                     |
+| STRANGELOVE DESIRE | 9                     |
+| STRANGER STRANGERS | 9                     |
+| STRANGERS GRAFFITI | 5                     |
+| STREAK RIDGEMONT | 3                     |
+| STREETCAR INTENTIONS | 7                     |
+| STRICTLY SCARFACE | 4                     |
+| SUBMARINE BED | 11                    |
+| SUGAR WONKA | 5                     |
+| SUICIDES SILENCE | 3                     |
+| SUIT WALLS | 5                     |
+| SUMMER SCARFACE | 8                     |
+| SUN CONFESSIONS | 5                     |
+| SUNDANCE INVASION | 7                     |
+| SUNRISE LEAGUE | 5                     |
+| SUNSET RACER | 3                     |
+| SUPER WYOMING | 3                     |
+| SUPERFLY TRIP | 7                     |
+| SUSPECTS QUILLS | 8                     |
+| SWARM GOLD | 6                     |
+| SWEDEN SHINING | 5                     |
+| SWEET BROTHERHOOD | 6                     |
+| SWEETHEARTS SUSPECTS | 5                     |
+| TADPOLE PARK | 8                     |
+| TALENTED HOMICIDE | 5                     |
+| TARZAN VIDEOTAPE | 3                     |
+| TAXI KICK  | 6                     |
+| TEEN APOLLO | 5                     |
+| TELEGRAPH VOYAGE | 7                     |
+| TELEMARK HEARTBREAKERS | 11                    |
+| TEMPLE ATTRACTION | 5                     |
+| TENENBAUMS COMMAND | 5                     |
+| TEQUILA PAST | 3                     |
+| TERMINATOR CLUB | 2                     |
+| TEXAS WATCH | 6                     |
+| THEORY MERMAID | 6                     |
+| THIEF PELICAN | 7                     |
+| THIN SAGEBRUSH | 2                     |
+| TIES HUNGER | 6                     |
+| TIGHTS DAWN | 5                     |
+| TIMBERLAND SKY | 4                     |
+| TITANIC BOONDOCK | 12                    |
+| TITANS JERK | 7                     |
+| TOMATOES HELLFIGHTERS | 9                     |
+| TOMORROW HUSTLER | 6                     |
+| TOOTSIE PILOT | 5                     |
+| TORQUE BOUND | 5                     |
+| TOURIST PELICAN | 3                     |
+| TOWERS HURRICANE | 4                     |
+| TOWN ARK   | 4                     |
+| TRACY CIDER | 3                     |
+| TRADING PINOCCHIO | 3                     |
+| TRAFFIC HOBBIT | 4                     |
+| TRAIN BUNCH | 4                     |
+| TRAINSPOTTING STRANGERS | 4                     |
+| TRAMP OTHERS | 6                     |
+| TRANSLATION SUMMER | 3                     |
+| TRAP GUYS  | 7                     |
+| TREASURE COMMAND | 7                     |
+| TREATMENT JEKYLL | 5                     |
+| TRIP NEWTON | 4                     |
+| TROJAN TOMORROW | 8                     |
+| TROOPERS METAL | 5                     |
+| TROUBLE DATE | 8                     |
+| TRUMAN CRAZY | 6                     |
+| TURN STAR  | 3                     |
+| TUXEDO MILE | 3                     |
+| TWISTED PIRATES | 3                     |
+| TYCOON GATHERING | 6                     |
+| UNBREAKABLE KARATE | 8                     |
+| UNCUT SUICIDES | 7                     |
+| UNDEFEATED DALMATIONS | 3                     |
+| UNFAITHFUL KILL | 8                     |
+| UNFORGIVEN ZOOLANDER | 7                     |
+| UNITED PILOT | 6                     |
+| UNTOUCHABLES SUNRISE | 5                     |
+| UPRISING UPTOWN | 5                     |
+| UPTOWN YOUNG | 7                     |
+| USUAL UNTOUCHABLES | 5                     |
+| VACATION BOONDOCK | 6                     |
+| VALENTINE VANISHING | 2                     |
+| VALLEY PACKER | 4                     |
+| VAMPIRE WHALE | 5                     |
+| VANILLA DAY | 2                     |
+| VANISHED GARDEN | 2                     |
+| VANISHING ROCKY | 5                     |
+| VARSITY TRIP | 3                     |
+| VELVET TERMINATOR | 9                     |
+| VERTIGO NORTHWEST | 4                     |
+| VICTORY ACADEMY | 5                     |
+| VIDEOTAPE ARSENIC | 5                     |
+| VIETNAM SMOOCHY | 2                     |
+| VILLAIN DESPERATE | 2                     |
+| VIRGIN DAISY | 8                     |
+| VIRGINIAN PLUTO | 8                     |
+| VIRTUAL SPOILERS | 3                     |
+| VISION TORQUE | 5                     |
+| VOICE PEACH | 3                     |
+| VOLCANO TEXAS | 5                     |
+| VOLUME HOUSE | 5                     |
+| VOYAGE LEGALLY | 5                     |
+| WAGON JAWS | 6                     |
+| WAIT CIDER | 9                     |
+| WAKE JAWS  | 5                     |
+| WALLS ARTIST | 5                     |
+| WANDA CHAMBER | 7                     |
+| WAR NOTTING | 9                     |
+| WARDROBE PHANTOM | 8                     |
+| WARLOCK WEREWOLF | 6                     |
+| WARS PLUTO | 4                     |
+| WASH HEAVENLY | 5                     |
+| WASTELAND DIVINE | 6                     |
+| WATCH TRACY | 5                     |
+| WATERFRONT DELIVERANCE | 6                     |
+| WATERSHIP FRONTIER | 6                     |
+| WEDDING APOLLO | 10                    |
+| WEEKEND PERSONAL | 10                    |
+| WEREWOLF LOLA | 7                     |
+| WEST LION  | 9                     |
+| WESTWARD SEABISCUIT | 6                     |
+| WHALE BIKINI | 5                     |
+| WHISPERER GIANT | 3                     |
+| WIFE TURN  | 6                     |
+| WILD APOLLO | 4                     |
+| WILLOW TRACY | 2                     |
+| WIND PHANTOM | 3                     |
+| WINDOW SIDE | 4                     |
+| WISDOM WORKER | 7                     |
+| WITCHES PANIC | 4                     |
+| WIZARD COLDBLOODED | 9                     |
+| WOLVES DESIRE | 6                     |
+| WOMEN DORADO | 5                     |
+| WON DARES  | 5                     |
+| WONDERFUL DROP | 4                     |
+| WONDERLAND CHRISTMAS | 5                     |
+| WONKA SEA  | 2                     |
+| WORDS HUNTER | 6                     |
+| WORKER TARZAN | 9                     |
+| WORKING MICROCOSMOS | 5                     |
+| WORLD LEATHERNECKS | 8                     |
+| WORST BANGER | 4                     |
+| WRATH MILE | 4                     |
+| WRONG BEHAVIOR | 9                     |
+| WYOMING STORM | 6                     |
+| YENTL IDAHO | 1                     |
+| YOUNG LANGUAGE | 5                     |
+| YOUTH KICK | 5                     |
+| ZHIVAGO CORE | 6                     |
+| ZOOLANDER FICTION | 5                     |
+| ZORRO ARK  | 3                     |
++ ---------- + --------------------- +
+997 rows
+
+Execute:
+> SELECT COUNT(inv.inventory_id) AS "Copies of Hunchback Impossible"
+FROM film f
+INNER JOIN inventory inv
+ON f.film_id = inv.film_id
+WHERE f.title = "Hunchback Impossible"
+
++ ----------------------------------- +
+| Copies of Hunchback Impossible      |
++ ----------------------------------- +
+| 6                                   |
++ ----------------------------------- +
+1 row
+
+Execute:
+> SELECT c.first_name AS "First Name", c.last_name AS "Last Name", SUM(p.amount) AS "Total Paid"
+FROM customer c
+INNER JOIN payment p
+ON c.customer_id = p.customer_id
+GROUP BY c.customer_id
+ORDER BY c.last_name
+
++ --------------- + -------------- + --------------- +
+| First Name      | Last Name      | Total Paid      |
++ --------------- + -------------- + --------------- +
+| RAFAEL          | ABNEY          | 97.79           |
+| NATHANIEL       | ADAM           | 133.72          |
+| KATHLEEN        | ADAMS          | 92.73           |
+| DIANA           | ALEXANDER      | 105.73          |
+| GORDON          | ALLARD         | 160.68          |
+| SHIRLEY         | ALLEN          | 126.69          |
+| CHARLENE        | ALVAREZ        | 114.73          |
+| LISA            | ANDERSON       | 106.76          |
+| JOSE            | ANDREW         | 96.75           |
+| IDA             | ANDREWS        | 76.77           |
+| OSCAR           | AQUINO         | 99.80           |
+| HARRY           | ARCE           | 157.65          |
+| JORDAN          | ARCHULETA      | 132.70          |
+| MELANIE         | ARMSTRONG      | 92.75           |
+| BEATRICE        | ARNOLD         | 119.74          |
+| KENT            | ARSENAULT      | 134.73          |
+| CARL            | ARTIS          | 106.77          |
+| DARRYL          | ASHCRAFT       | 76.77           |
+| TYRONE          | ASHER          | 112.76          |
+| ALMA            | AUSTIN         | 151.65          |
+| MILDRED         | BAILEY         | 98.75           |
+| PAMELA          | BAKER          | 95.77           |
+| MARTIN          | BALES          | 103.73          |
+| EVERETT         | BANDA          | 110.72          |
+| JESSIE          | BANKS          | 91.74           |
+| CLAYTON         | BARBEE         | 96.74           |
+| ANGEL           | BARCLAY        | 115.68          |
+| NICHOLAS        | BARFIELD       | 145.68          |
+| VICTOR          | BARKLEY        | 91.76           |
+| RACHEL          | BARNES         | 84.78           |
+| CAROLE          | BARNETT        | 108.70          |
+| TRACEY          | BARRETT        | 118.73          |
+| DAISY           | BATES          | 162.62          |
+| EDWARD          | BAUGH          | 114.72          |
+| ROBERT          | BAUGHMAN       | 92.79           |
+| JEAN            | BELL           | 115.73          |
+| CHESTER         | BENNER         | 99.76           |
+| JANE            | BENNETT        | 100.72          |
+| REGINA          | BERRY          | 135.66          |
+| CHARLIE         | BESS           | 120.74          |
+| MIGUEL          | BETANCOURT     | 135.71          |
+| HENRY           | BILLINGSLEY    | 73.82           |
+| AGNES           | BISHOP         | 98.77           |
+| VALERIE         | BLACK          | 121.74          |
+| DEREK           | BLAKELY        | 97.72           |
+| MATHEW          | BOLIN          | 90.78           |
+| DON             | BONE           | 133.75          |
+| LEON            | BOSTIC         | 109.75          |
+| BOBBY           | BOUDREAU       | 106.65          |
+| DERRICK         | BOURQUE        | 95.78           |
+| CLIFFORD        | BOWENS         | 113.71          |
+| CAROLINE        | BOWMAN         | 50.85           |
+| BYRON           | BOX            | 120.71          |
+| EMMA            | BOYD           | 94.77           |
+| ANA             | BRADLEY        | 174.66          |
+| TED             | BREAUX         | 117.71          |
+| VICKIE          | BREWER         | 120.69          |
+| RUSSELL         | BRINSON        | 136.64          |
+| BEVERLY         | BROOKS         | 97.76           |
+| CHRIS           | BROTHERS       | 84.78           |
+| ELIZABETH       | BROWN          | 144.62          |
+| GUY             | BROWNLEE       | 159.68          |
+| PAULA           | BRYANT         | 77.82           |
+| CLINTON         | BUFORD         | 103.75          |
+| WESLEY          | BULL           | 177.60          |
+| TIMOTHY         | BUNN           | 91.78           |
+| EDWIN           | BURK           | 116.77          |
+| LYDIA           | BURKE          | 82.76           |
+| SIDNEY          | BURLESON       | 108.75          |
+| APRIL           | BURNS          | 94.74           |
+| COLLEEN         | BURTON         | 87.76           |
+| LEROY           | BUSTAMANTE     | 118.68          |
+| LOIS            | BUTLER         | 113.65          |
+| ALLEN           | BUTTERFIELD    | 85.79           |
+| DEANNA          | BYRD           | 107.74          |
+| DANIEL          | CABRAL         | 97.80           |
+| KAY             | CALDWELL       | 98.80           |
+| CATHERINE       | CAMPBELL       | 142.66          |
+| CHAD            | CARBONE        | 89.75           |
+| TERRY           | CARLSON        | 127.71          |
+| LORETTA         | CARPENTER      | 93.78           |
+| EILEEN          | CARR           | 80.82           |
+| TONY            | CARRANZA       | 74.78           |
+| JUNE            | CARROLL        | 173.63          |
+| AMANDA          | CARTER         | 110.73          |
+| TIM             | CARY           | 175.61          |
+| ALFRED          | CASILLAS       | 120.74          |
+| GERTRUDE        | CASTILLO       | 137.66          |
+| JENNY           | CASTRO         | 103.73          |
+| PHILIP          | CAUSEY         | 121.69          |
+| KRISTINA        | CHAMBERS       | 109.72          |
+| VERNON          | CHAPA          | 88.82           |
+| TONYA           | CHAPMAN        | 161.68          |
+| KRISTEN         | CHAVEZ         | 87.82           |
+| MARIO           | CHEATHAM       | 112.72          |
+| PEDRO           | CHESTNUT       | 103.76          |
+| JOHNNIE         | CHISHOLM       | 121.76          |
+| RAMON           | CHOATE         | 140.69          |
+| NELSON          | CHRISTENSON    | 77.80           |
+| FERNANDO        | CHURCHILL      | 117.75          |
+| AUSTIN          | CINTRON        | 83.81           |
+| MICHELLE        | CLARK          | 155.65          |
+| ADRIAN          | CLARY          | 74.81           |
+| BERNARD         | COLBY          | 88.78           |
+| TRACY           | COLE           | 132.70          |
+| KATHRYN         | COLEMAN        | 130.74          |
+| TOMMY           | COLLAZO        | 186.62          |
+| DIANE           | COLLINS        | 169.65          |
+| GLORIA          | COOK           | 135.70          |
+| JOAN            | COOPER         | 84.77           |
+| ALLAN           | CORNISH        | 79.81           |
+| BRETT           | CORNWELL       | 138.66          |
+| CARLOS          | COUGHLIN       | 106.77          |
+| JUDITH          | COX            | 100.67          |
+| GARY            | COY            | 103.75          |
+| BOBBIE          | CRAIG          | 80.76           |
+| ESTHER          | CRAWFORD       | 95.72           |
+| MAURICE         | CRAWLEY        | 138.71          |
+| IVAN            | CROMWELL       | 99.74           |
+| ALBERT          | CROUSE         | 99.77           |
+| KIM             | CRUZ           | 82.79           |
+| THEODORE        | CULP           | 116.69          |
+| EUGENE          | CULPEPPER      | 71.81           |
+| STACY           | CUNNINGHAM     | 98.77           |
+| STEVEN          | CURLEY         | 132.71          |
+| NORMAN          | CURRIER        | 80.74           |
+| LEAH            | CURTIS         | 104.75          |
+| DANIELLE        | DANIELS        | 105.75          |
+| PATSY           | DAVIDSON       | 119.72          |
+| JENNIFER        | DAVIS          | 93.72           |
+| COURTNEY        | DAY            | 132.68          |
+| MARCIA          | DEAN           | 175.58          |
+| ALVIN           | DELOACH        | 139.71          |
+| RON             | DELUCA         | 103.77          |
+| WADE            | DELVALLE       | 83.78           |
+| HERMAN          | DEVORE         | 115.71          |
+| EMILY           | DIAZ           | 91.76           |
+| AMBER           | DIXON          | 113.73          |
+| MARSHA          | DOUGLAS        | 151.63          |
+| SEAN            | DOUGLASS       | 91.77           |
+| LLOYD           | DOWD           | 66.81           |
+| FREDDIE         | DUGGAN         | 99.75           |
+| SAMANTHA        | DUNCAN         | 71.77           |
+| ERIN            | DUNN           | 106.73          |
+| JEFF            | EAST           | 107.70          |
+| BEN             | EASTER         | 122.74          |
+| LEO             | EBERT          | 104.77          |
+| JOYCE           | EDWARDS        | 130.72          |
+| JIMMIE          | EGGLESTON      | 135.72          |
+| MELVIN          | ELLINGTON      | 97.74           |
+| KATIE           | ELLIOTT        | 109.75          |
+| GRACE           | ELLIS          | 139.67          |
+| JAVIER          | ELROD          | 135.68          |
+| JARED           | ELY            | 87.81           |
+| KURT            | EMMONS         | 99.77           |
+| TRAVIS          | ESTEP          | 110.75          |
+| ANN             | EVANS          | 76.83           |
+| JOHN            | FARNSWORTH     | 137.69          |
+| ALEXANDER       | FENNELL        | 151.64          |
+| BERTHA          | FERGUSON       | 101.75          |
+| MELINDA         | FERNANDEZ      | 80.83           |
+| VICKI           | FIELDS         | 108.75          |
+| CINDY           | FISHER         | 113.71          |
+| MYRTLE          | FLEMING        | 110.76          |
+| MAE             | FLETCHER       | 158.69          |
+| JULIA           | FLORES         | 134.68          |
+| CRYSTAL         | FORD           | 137.67          |
+| MICHEAL         | FORMAN         | 102.74          |
+| ENRIQUE         | FORSYTHE       | 96.72           |
+| RAUL            | FORTIER        | 100.80          |
+| HOWARD          | FORTNER        | 93.74           |
+| PHYLLIS         | FOSTER         | 91.77           |
+| JACK            | FOUST          | 89.76           |
+| JO              | FOWLER         | 73.80           |
+| HOLLY           | FOX            | 114.69          |
+| JUAN            | FRALEY         | 73.77           |
+| JOEL            | FRANCISCO      | 95.77           |
+| BETH            | FRANKLIN       | 103.75          |
+| GLENDA          | FRAZIER        | 140.68          |
+| SHANNON         | FREEMAN        | 100.76          |
+| CLAUDIA         | FULLER         | 111.74          |
+| GERALD          | FULTZ          | 121.70          |
+| FELIX           | GAFFNEY        | 73.76           |
+| RANDY           | GAITHER        | 110.72          |
+| CLARENCE        | GAMEZ          | 104.70          |
+| FLOYD           | GANDY          | 69.83           |
+| JAMES           | GANNON         | 131.70          |
+| CAROL           | GARCIA         | 91.78           |
+| DAVE            | GARDINER       | 134.68          |
+| JOANN           | GARDNER        | 66.84           |
+| NELLIE          | GARRETT        | 94.79           |
+| PEARL           | GARZA          | 76.78           |
+| BILL            | GAVIN          | 114.72          |
+| RUBEN           | GEARY          | 89.79           |
+| JOY             | GEORGE         | 124.67          |
+| VICTORIA        | GIBSON         | 111.73          |
+| TANYA           | GILBERT        | 144.67          |
+| DUSTIN          | GILLETTE       | 100.74          |
+| JOE             | GILLILAND      | 138.71          |
+| DENNIS          | GILMAN         | 114.72          |
+| JOSEPHINE       | GOMEZ          | 109.74          |
+| NORMA           | GONZALES       | 79.79           |
+| MARTHA          | GONZALEZ       | 127.66          |
+| ADAM            | GOOCH          | 101.78          |
+| KENNETH         | GOODEN         | 84.83           |
+| LESLIE          | GORDON         | 89.78           |
+| DOUGLAS         | GRAF           | 114.75          |
+| RITA            | GRAHAM         | 92.76           |
+| MICHELE         | GRANT          | 130.70          |
+| BRANDY          | GRAVES         | 122.72          |
+| JUDY            | GRAY           | 96.75           |
+| CHRISTOPHER     | GRECO          | 147.69          |
+| VIRGINIA        | GREEN          | 129.68          |
+| JEANETTE        | GREENE         | 74.80           |
+| SONIA           | GREGORY        | 126.72          |
+| ALEX            | GRESHAM        | 151.67          |
+| ROSS            | GREY           | 99.73           |
+| LILLIAN         | GRIFFIN        | 106.75          |
+| THOMAS          | GRIGSBY        | 105.75          |
+| TERRY           | GRISSOM        | 72.80           |
+| ARMANDO         | GRUBER         | 83.79           |
+| HARVEY          | GUAJARDO       | 93.78           |
+| ERIK            | GUILLEN        | 118.71          |
+| TERRENCE        | GUNDERSON      | 117.70          |
+| CARLA           | GUTIERREZ      | 103.74          |
+| RAMONA          | HALE           | 129.70          |
+| JESSICA         | HALL           | 152.66          |
+| GLADYS          | HAMILTON       | 146.69          |
+| SETH            | HANNON         | 112.75          |
+| DELORES         | HANSEN         | 91.79           |
+| VIOLA           | HANSON         | 129.68          |
+| GABRIEL         | HARDER         | 111.74          |
+| BRYAN           | HARDISON       | 124.72          |
+| BRENT           | HARKINS        | 112.77          |
+| ROBERTA         | HARPER         | 84.77           |
+| HELEN           | HARRIS         | 134.68          |
+| WENDY           | HARRISON       | 91.70           |
+| DANA            | HART           | 133.71          |
+| ARLENE          | HARVEY         | 120.74          |
+| COREY           | HAUSER         | 101.78          |
+| ARNOLD          | HAVENS         | 167.67          |
+| JILL            | HAWKINS        | 68.79           |
+| LEE             | HAWKS          | 119.73          |
+| ROBIN           | HAYES          | 102.76          |
+| SHAWN           | HEATON         | 152.67          |
+| ANDREA          | HENDERSON      | 93.78           |
+| ALBERTO         | HENNING        | 66.79           |
+| PAULINE         | HENRY          | 98.73           |
+| ANGELA          | HERNANDEZ      | 140.64          |
+| NORA            | HERRERA        | 118.72          |
+| TRACY           | HERRMANN       | 129.72          |
+| CLAUDE          | HERZOG         | 111.75          |
+| EDUARDO         | HIATT          | 130.73          |
+| MONICA          | HICKS          | 128.70          |
+| MARCUS          | HIDALGO        | 115.70          |
+| ANNA            | HILL           | 91.79           |
+| ZACHARY         | HITE           | 146.69          |
+| MATTIE          | HOFFMAN        | 64.78           |
+| MABEL           | HOLLAND        | 112.70          |
+| PHILLIP         | HOLM           | 101.74          |
+| LUCILLE         | HOLMES         | 108.72          |
+| TONI            | HOLT           | 95.77           |
+| HILDA           | HOPKINS        | 122.71          |
+| BILLIE          | HORTON         | 88.74           |
+| RAY             | HOULE          | 79.78           |
+| ROSE            | HOWARD         | 103.78          |
+| WILLIE          | HOWELL         | 101.74          |
+| MILTON          | HOWLAND        | 127.75          |
+| LAUREN          | HUDSON         | 71.80           |
+| BRANDON         | HUEY           | 152.63          |
+| BONNIE          | HUGHES         | 87.79           |
+| ELEANOR         | HUNT           | 216.54          |
+| CHARLOTTE       | HUNTER         | 93.76           |
+| JEREMY          | HURTADO        | 103.72          |
+| CURTIS          | IRBY           | 167.62          |
+| FREDERICK       | ISBELL         | 105.79          |
+| DANNY           | ISOM           | 91.79           |
+| KAREN           | JACKSON        | 131.73          |
+| GEORGIA         | JACOBS         | 110.74          |
+| KATHY           | JAMES          | 129.70          |
+| LOUISE          | JENKINS        | 101.75          |
+| NAOMI           | JENNINGS       | 152.65          |
+| LENA            | JENSEN         | 170.67          |
+| OLGA            | JIMENEZ        | 144.68          |
+| PATRICIA        | JOHNSON        | 128.73          |
+| KRISTIN         | JOHNSTON       | 116.69          |
+| BARBARA         | JONES          | 81.78           |
+| TIFFANY         | JORDAN         | 59.86           |
+| JERRY           | JORDON         | 143.71          |
+| JOSEPH          | JOY            | 134.70          |
+| CHRISTIAN       | JUNG           | 88.76           |
+| ALAN            | KAHN           | 124.74          |
+| ELSIE           | KELLEY         | 141.63          |
+| DENISE          | KELLY          | 103.73          |
+| RHONDA          | KENNEDY        | 194.61          |
+| JEROME          | KENYON         | 73.84           |
+| LILLIE          | KIM            | 89.77           |
+| REGINALD        | KINDER         | 115.72          |
+| MELISSA         | KING           | 123.66          |
+| GAIL            | KNIGHT         | 109.75          |
+| KELLY           | KNOTT          | 107.74          |
+| CHARLES         | KOWALSKI       | 138.68          |
+| LESTER          | KRAUS          | 65.84           |
+| HERBERT         | KRUGER         | 78.80           |
+| MISTY           | LAMBERT        | 118.73          |
+| JACOB           | LANCE          | 79.79           |
+| RENEE           | LANE           | 97.74           |
+| HEIDI           | LARSON         | 122.66          |
+| DARYL           | LARUE          | 111.73          |
+| LAURIE          | LAWRENCE       | 99.77           |
+| JEANNE          | LAWSON         | 136.73          |
+| LAWRENCE        | LAWTON         | 100.69          |
+| KIMBERLY        | LEE            | 95.75           |
+| LOUIS           | LEONE          | 161.65          |
+| SARAH           | LEWIS          | 119.70          |
+| GEORGE          | LINTON         | 131.67          |
+| MAUREEN         | LITTLE         | 87.79           |
+| DWIGHT          | LOMBARDI       | 74.83           |
+| JACQUELINE      | LONG           | 148.67          |
+| AMY             | LOPEZ          | 127.71          |
+| BARRY           | LOVELACE       | 134.67          |
+| PRISCILLA       | LOWE           | 157.65          |
+| VELMA           | LUCAS          | 117.73          |
+| WILLARD         | LUMPKIN        | 96.78           |
+| LEWIS           | LYMAN          | 86.81           |
+| JACKIE          | LYNCH          | 93.75           |
+| STEVE           | MACKENZIE      | 158.66          |
+| RALPH           | MADRIGAL       | 150.66          |
+| MATTHEW         | MAHAN          | 114.69          |
+| DONALD          | MAHON          | 89.77           |
+| CLIFTON         | MALCOLM        | 118.72          |
+| JOSHUA          | MARK           | 119.70          |
+| WILLIE          | MARKHAM        | 101.75          |
+| SAMUEL          | MARLOW         | 80.79           |
+| SHERRY          | MARSHALL       | 153.66          |
+| CALVIN          | MARTEL         | 111.77          |
+| SANDRA          | MARTIN         | 120.71          |
+| RUTH            | MARTINEZ       | 125.76          |
+| HAROLD          | MARTINO        | 130.68          |
+| JUANITA         | MASON          | 110.70          |
+| ERICA           | MATTHEWS       | 95.78           |
+| RICK            | MATTOX         | 124.73          |
+| GREGORY         | MAULDIN        | 78.77           |
+| GWENDOLYN       | MAY            | 98.75           |
+| ALFREDO         | MCADAMS        | 85.80           |
+| RENE            | MCALISTER      | 113.74          |
+| MORRIS          | MCCARTER       | 139.66          |
+| JESUS           | MCCARTNEY      | 114.76          |
+| VERA            | MCCOY          | 67.82           |
+| RICHARD         | MCCRARY        | 109.75          |
+| BRAD            | MCCURDY        | 105.75          |
+| EDITH           | MCDONALD       | 71.81           |
+| SAM             | MCDUFFIE       | 117.76          |
+| MIRIAM          | MCKINNEY       | 135.74          |
+| RAYMOND         | MCWHORTER      | 135.70          |
+| RICARDO         | MEADOR         | 99.79           |
+| DORA            | MEDINA         | 107.77          |
+| CORY            | MEEHAN         | 81.76           |
+| ANTONIO         | MEEK           | 78.84           |
+| CASEY           | MENA           | 141.66          |
+| PETER           | MENARD         | 106.77          |
+| MARIAN          | MENDOZA        | 107.77          |
+| NATALIE         | MEYER          | 95.77           |
+| JESSIE          | MILAM          | 141.67          |
+| BECKY           | MILES          | 115.71          |
+| SHANE           | MILLARD        | 95.78           |
+| MARIA           | MILLER         | 151.67          |
+| ALICIA          | MILLS          | 83.79           |
+| TOM             | MILNER         | 107.68          |
+| STEPHANIE       | MITCHELL       | 118.75          |
+| RODNEY          | MOELLER        | 104.77          |
+| STACEY          | MONTGOMERY     | 151.66          |
+| MARGARET        | MOORE          | 89.77           |
+| ANITA           | MORALES        | 62.85           |
+| STELLA          | MORENO         | 104.78          |
+| EVELYN          | MORGAN         | 114.72          |
+| CRAIG           | MORRELL        | 124.70          |
+| HEATHER         | MORRIS         | 115.70          |
+| BESSIE          | MORRISON       | 132.72          |
+| JASON           | MORRISSEY      | 128.72          |
+| BRADLEY         | MOTLEY         | 126.73          |
+| CHERYL          | MURPHY         | 133.73          |
+| THELMA          | MURRAY         | 126.68          |
+| MANUEL          | MURRELL        | 116.70          |
+| PEGGY           | MYERS          | 96.76           |
+| PENNY           | NEAL           | 68.82           |
+| DEBRA           | NELSON         | 141.71          |
+| JAIME           | NETTLES        | 126.71          |
+| RANDALL         | NEUMANN        | 99.77           |
+| PATRICK         | NEWSOM         | 119.69          |
+| JUSTIN          | NGO            | 129.64          |
+| TAMARA          | NGUYEN         | 93.75           |
+| SUZANNE         | NICHOLS        | 94.76           |
+| ELMER           | NOE            | 98.74           |
+| JULIO           | NOLAND         | 89.79           |
+| CODY            | NOLEN          | 98.78           |
+| LEONA           | OBRIEN         | 50.86           |
+| MARION          | OCAMPO         | 115.71          |
+| ISAAC           | OGLESBY        | 126.71          |
+| JORGE           | OLIVARES       | 134.66          |
+| ELLA            | OLIVER         | 137.69          |
+| ANNETTE         | OLSON          | 98.76           |
+| DWAYNE          | OLVERA         | 101.78          |
+| SYLVIA          | ORTIZ          | 143.68          |
+| MARC            | OUTLAW         | 123.70          |
+| CARMEN          | OWENS          | 97.74           |
+| DAN             | PAINE          | 109.78          |
+| MEGAN           | PALMER         | 92.73           |
+| FRANCES         | PARKER         | 108.78          |
+| WANDA           | PATTERSON      | 145.70          |
+| LYNN            | PAYNE          | 123.72          |
+| IRMA            | PEARSON        | 70.82           |
+| LANCE           | PEMBERTON      | 82.78           |
+| ERIKA           | PENA           | 101.74          |
+| CAROLYN         | PEREZ          | 117.70          |
+| GERALDINE       | PERKINS        | 112.70          |
+| SARA            | PERRY          | 141.67          |
+| WALTER          | PERRYMAN       | 127.70          |
+| SUE             | PETERS         | 154.60          |
+| NICOLE          | PETERSON       | 94.78           |
+| BOB             | PFEIFFER       | 91.76           |
+| JANET           | PHILLIPS       | 127.73          |
+| SALLY           | PIERCE         | 119.68          |
+| JEFFERY         | PINSON         | 121.69          |
+| MAX             | PITT           | 107.76          |
+| HECTOR          | POINDEXTER     | 119.74          |
+| CARRIE          | PORTER         | 124.66          |
+| BILLY           | POULIN         | 149.65          |
+| ANNE            | POWELL         | 87.77           |
+| DARRELL         | POWER          | 91.75           |
+| KEN             | PREWITT        | 110.71          |
+| IRENE           | PRICE          | 77.77           |
+| GLENN           | PULLEN         | 93.77           |
+| ANDREW          | PURDY          | 109.73          |
+| STEPHEN         | QUALLS         | 118.72          |
+| TROY            | QUIGLEY        | 144.70          |
+| ROGER           | QUINTANILLA    | 146.64          |
+| VINCENT         | RALSTON        | 105.75          |
+| CHRISTINA       | RAMIREZ        | 80.82           |
+| EVA             | RAMOS          | 83.82           |
+| ANDRE           | RAPP           | 126.72          |
+| DALE            | RATCLIFF       | 112.73          |
+| AUDREY          | RAY            | 119.71          |
+| JIM             | REA            | 128.67          |
+| DORIS           | REED           | 100.78          |
+| CONSTANCE       | REID           | 95.75           |
+| NEIL            | RENNER         | 152.68          |
+| DEBBIE          | REYES          | 130.68          |
+| ROSA            | REYNOLDS       | 133.70          |
+| EDGAR           | RHOADS         | 95.75           |
+| SHERRI          | RHODES         | 128.67          |
+| JAMIE           | RICE           | 139.71          |
+| WILMA           | RICHARDS       | 91.80           |
+| ASHLEY          | RICHARDSON     | 112.75          |
+| RONNIE          | RICKETTS       | 100.75          |
+| KEITH           | RICO           | 89.74           |
+| BRITTANY        | RILEY          | 159.72          |
+| MARK            | RINEHART       | 104.74          |
+| KATHERINE       | RIVERA         | 58.86           |
+| JAY             | ROBB           | 89.74           |
+| ERIC            | ROBERT         | 122.73          |
+| CHRISTINE       | ROBERTS        | 99.76           |
+| JOANNE          | ROBERTSON      | 127.66          |
+| GREG            | ROBINS         | 141.70          |
+| SHARON          | ROBINSON       | 115.70          |
+| LAURA           | RODRIGUEZ      | 113.78          |
+| VIOLET          | RODRIQUEZ      | 142.70          |
+| TERESA          | ROGERS         | 128.71          |
+| MINNIE          | ROMERO         | 142.66          |
+| DARLENE         | ROSE           | 113.69          |
+| MARILYN         | ROSS           | 137.70          |
+| TERRANCE        | ROUSH          | 111.71          |
+| DAVID           | ROYAL          | 115.74          |
+| VIVIAN          | RUIZ           | 90.77           |
+| NATHAN          | RUNYON         | 122.68          |
+| ANNIE           | RUSSELL        | 58.82           |
+| TARA            | RYAN           | 88.80           |
+| RYAN            | SALISBURY      | 142.70          |
+| GENE            | SANBORN        | 97.73           |
+| JULIE           | SANCHEZ        | 107.71          |
+| TAMMY           | SANDERS        | 155.59          |
+| WILLIAM         | SATTERFIELD    | 100.74          |
+| DEAN            | SAUER          | 109.73          |
+| JONATHAN        | SCARBOROUGH    | 72.82           |
+| JESSE           | SCHILLING      | 101.74          |
+| ROSEMARY        | SCHMIDT        | 147.65          |
+| LEONARD         | SCHOFIELD      | 109.68          |
+| JIMMY           | SCHRADER       | 105.71          |
+| KEVIN           | SCHULER        | 116.78          |
+| ANTHONY         | SCHWAB         | 71.80           |
+| BRUCE           | SCHWARZ        | 103.77          |
+| REBECCA         | SCOTT          | 89.76           |
+| STANLEY         | SCROGGINS      | 139.70          |
+| KARL            | SEAL           | 221.55          |
+| AARON           | SELBY          | 110.76          |
+| LESLIE          | SEWARD         | 152.65          |
+| EARL            | SHANKS         | 111.73          |
+| CLARA           | SHAW           | 195.58          |
+| RICKY           | SHELBY         | 91.75           |
+| SCOTT           | SHELLEY        | 94.75           |
+| DIANNE          | SHELTON        | 135.69          |
+| WARREN          | SHERROD        | 159.67          |
+| FRANCIS         | SIKES          | 104.74          |
+| MAXINE          | SILVA          | 116.68          |
+| MICHAEL         | SILVERMAN      | 127.71          |
+| TINA            | SIMMONS        | 133.72          |
+| ARTHUR          | SIMPKINS       | 155.68          |
+| ELLEN           | SIMPSON        | 117.72          |
+| VANESSA         | SIMS           | 86.81           |
+| FRANCISCO       | SKIDMORE       | 98.78           |
+| GILBERT         | SLEDGE         | 129.72          |
+| WALLACE         | SLONE          | 109.75          |
+| MARY            | SMITH          | 118.68          |
+| MARION          | SNYDER         | 194.61          |
+| NINA            | SOTO           | 123.71          |
+| ROLAND          | SOUTH          | 80.77           |
+| JEFFREY         | SPEAR          | 90.77           |
+| CATHY           | SPENCER        | 122.71          |
+| KYLE            | SPURLOCK       | 110.70          |
+| SERGIO          | STANFIELD      | 108.74          |
+| ALLISON         | STANLEY        | 92.73           |
+| KIRK            | STCLAIR        | 64.81           |
+| LORRAINE        | STEPHENS       | 86.79           |
+| ERNEST          | STEPP          | 89.75           |
+| ELAINE          | STEVENS        | 107.76          |
+| ALICE           | STEWART        | 138.67          |
+| IAN             | STILL          | 96.73           |
+| VERONICA        | STONE          | 126.68          |
+| DAWN            | SULLIVAN       | 120.74          |
+| FELICIA         | SUTTON         | 86.72           |
+| PERRY           | SWAFFORD       | 117.76          |
+| GLEN            | TALBERT        | 113.74          |
+| TODD            | TAN            | 117.71          |
+| DOROTHY         | TAYLOR         | 99.75           |
+| SALVADOR        | TEEL           | 129.70          |
+| JENNIE          | TERRY          | 133.71          |
+| NANCY           | THOMAS         | 103.72          |
+| DONNA           | THOMPSON       | 98.79           |
+| MARSHALL        | THORN          | 117.77          |
+| LARRY           | THRASHER       | 112.74          |
+| LONNIE          | TIRADO         | 94.82           |
+| CLYDE           | TOBIAS         | 115.71          |
+| EDDIE           | TOMLIN         | 128.73          |
+| KELLY           | TORRES         | 99.78           |
+| PAUL            | TROUT          | 120.77          |
+| FRANKLIN        | TROUTMAN       | 74.78           |
+| WAYNE           | TRUONG         | 70.81           |
+| DUANE           | TUBBS          | 148.69          |
+| MARJORIE        | TUCKER         | 127.68          |
+| MARIE           | TURNER         | 114.74          |
+| JOHNNY          | TURPIN         | 57.81           |
+| ANDY            | VANHORN        | 113.75          |
+| CHRISTY         | VARGAS         | 122.69          |
+| BENJAMIN        | VARNEY         | 95.77           |
+| TERRI           | VASQUEZ        | 126.73          |
+| JULIAN          | VEST           | 109.72          |
+| CECIL           | VINES          | 115.74          |
+| ROBERTO         | VU             | 139.70          |
+| MARGIE          | WADE           | 159.64          |
+| FRANK           | WAGGONER       | 127.68          |
+| DOLORES         | WAGNER         | 114.74          |
+| HUGH            | WALDROP        | 90.79           |
+| DEBORAH         | WALKER         | 115.71          |
+| CONNIE          | WALLACE        | 100.77          |
+| CASSANDRA       | WALTERS        | 129.70          |
+| JANICE          | WARD           | 144.66          |
+| HAZEL           | WARREN         | 110.66          |
+| RUBY            | WASHINGTON     | 110.72          |
+| YVONNE          | WATKINS        | 92.79           |
+| THERESA         | WATSON         | 99.70           |
+| SHELLY          | WATTS          | 113.74          |
+| JAMIE           | WAUGH          | 118.75          |
+| MIKE            | WAY            | 166.65          |
+| YOLANDA         | WEAVER         | 110.73          |
+| ETHEL           | WEBB           | 135.68          |
+| RONALD          | WEINER         | 132.70          |
+| MARLENE         | WELCH          | 117.74          |
+| SHEILA          | WELLS          | 73.82           |
+| EDNA            | WEST           | 107.74          |
+| MITCHELL        | WESTMORELAND   | 134.68          |
+| FRED            | WHEAT          | 88.75           |
+| LUCY            | WHEELER        | 91.74           |
+| BETTY           | WHITE          | 117.72          |
+| ROY             | WHITING        | 143.71          |
+| JON             | WILES          | 87.76           |
+| LINDA           | WILLIAMS       | 135.74          |
+| GINA            | WILLIAMSON     | 111.72          |
+| BERNICE         | WILLIS         | 145.67          |
+| SUSAN           | WILSON         | 92.76           |
+| DARREN          | WINDHAM        | 108.76          |
+| VIRGIL          | WOFFORD        | 107.73          |
+| LORI            | WOOD           | 141.69          |
+| FLORENCE        | WOODS          | 126.70          |
+| TYLER           | WREN           | 88.79           |
+| BRENDA          | WRIGHT         | 104.74          |
+| BRIAN           | WYMAN          | 52.88           |
+| LUIS            | YANEZ          | 79.80           |
+| MARVIN          | YEE            | 75.79           |
+| CYNTHIA         | YOUNG          | 111.68          |
++ --------------- + -------------- + --------------- +
+599 rows
+
+Execute:
+> SELECT a.title
+FROM (SELECT title, language_id
+      FROM film
+      WHERE title like 'K%'
+      OR title like 'Q%') a
+INNER JOIN language l
+ON a.language_id = l.language_id
+WHERE l.name = "English"
+
++ ---------- +
+| title      |
++ ---------- +
+| KANE EXORCIST |
+| KARATE MOON |
+| KENTUCKIAN GIANT |
+| KICK SAVANNAH |
+| KILL BROTHERHOOD |
+| KILLER INNOCENT |
+| KING EVOLUTION |
+| KISS GLORY |
+| KISSING DOLLS |
+| KNOCK WARLOCK |
+| KRAMER CHOCOLATE |
+| KWAI HOMEWARD |
+| QUEEN LUKE |
+| QUEST MUSSOLINI |
+| QUILLS BULL |
++ ---------- +
+15 rows
+
+Execute:
+> SELECT CONCAT(a.first_name, ' ' ,a.last_name) AS "Actor Name"
+FROM (SELECT ac.first_name, ac.last_name, ac.actor_id, fa.film_id
+      FROM actor ac
+      INNER JOIN film_actor fa
+      ON ac.actor_id = fa.actor_id
+      ) a
+INNER JOIN film b
+ON a.film_id = b.film_id
+WHERE b.title = "Alone Trip"
+
++ --------------- +
+| Actor Name      |
++ --------------- +
+| ED CHASE        |
+| KARL BERRY      |
+| UMA WOOD        |
+| WOODY JOLIE     |
+| SPENCER DEPP    |
+| CHRIS DEPP      |
+| LAURENCE BULLOCK |
+| RENEE BALL      |
++ --------------- +
+8 rows
+
+Execute:
+> SELECT CONCAT(a.first_name, ' ' ,a.last_name) AS "Customer Name", a.email
+FROM (SELECT c.first_name, c.last_name, c.email, adr.address_id, adr.city_id
+      FROM customer c
+      INNER JOIN address adr
+      ON c.address_id = adr.address_id
+      ) a
+INNER JOIN city cy
+ON a.city_id = cy.city_id
+WHERE cy.country_id = (SELECT country_id FROM country where country = "Canada")
+
++ ------------------ + ---------- +
+| Customer Name      | email      |
++ ------------------ + ---------- +
+| DERRICK BOURQUE    | DERRICK.BOURQUE@sakilacustomer.org |
+| DARRELL POWER      | DARRELL.POWER@sakilacustomer.org |
+| LORETTA CARPENTER  | LORETTA.CARPENTER@sakilacustomer.org |
+| CURTIS IRBY        | CURTIS.IRBY@sakilacustomer.org |
+| TROY QUIGLEY       | TROY.QUIGLEY@sakilacustomer.org |
++ ------------------ + ---------- +
+5 rows
+
+Execute:
+> SELECT a.title
+FROM (SELECT fl.film_id, fl.title, fc.category_id
+	  FROM film fl
+      INNER JOIN film_category fc
+      ON fl.film_id = fc.film_id
+      ) a
+INNER JOIN category cat
+ON a.category_id = cat.category_id
+WHERE cat.name = "Family"
+
++ ---------- +
+| title      |
++ ---------- +
+| AFRICAN EGG |
+| APACHE DIVINE |
+| ATLANTIS CAUSE |
+| BAKED CLEOPATRA |
+| BANG KWAI  |
+| BEDAZZLED MARRIED |
+| BILKO ANONYMOUS |
+| BLANKET BEVERLY |
+| BLOOD ARGONAUTS |
+| BLUES INSTINCT |
+| BRAVEHEART HUMAN |
+| CHASING FIGHT |
+| CHISUM BEHAVIOR |
+| CHOCOLAT HARRY |
+| CONFUSED CANDLES |
+| CONVERSATION DOWNHILL |
+| DATE SPEED |
+| DINOSAUR SECRETARY |
+| DUMBO LUST |
+| EARRING INSTINCT |
+| EFFECT GLADIATOR |
+| FEUD FROGMEN |
+| FINDING ANACONDA |
+| GABLES METROPOLIS |
+| GANDHI KWAI |
+| GLADIATOR WESTWARD |
+| GREASE YOUTH |
+| HALF OUTFIELD |
+| HOCUS FRIDA |
+| HOMICIDE PEACH |
+| HOUSE DYNAMITE |
+| HUNTING MUSKETEERS |
+| INDIAN LOVE |
+| JASON TRAP |
+| JEDI BENEATH |
+| KILLER INNOCENT |
+| KING EVOLUTION |
+| LOLITA WORLD |
+| LOUISIANA HARRY |
+| MAGUIRE APACHE |
+| MANCHURIAN CURTAIN |
+| MOVIE SHAKESPEARE |
+| MUSIC BOONDOCK |
+| NATURAL STOCK |
+| NETWORK PEAK |
+| ODDS BOOGIE |
+| OPPOSITE NECKLACE |
+| PILOT HOOSIERS |
+| PITTSBURGH HUNCHBACK |
+| PRESIDENT BANG |
+| PRIX UNDEFEATED |
+| RAGE GAMES |
+| RANGE MOONWALKER |
+| REMEMBER DIARY |
+| RESURRECTION SILVERADO |
+| ROBBERY BRIGHT |
+| RUSH GOODFELLAS |
+| SECRETS PARADISE |
+| SENSIBILITY REAR |
+| SIEGE MADRE |
+| SLUMS DUCK |
+| SOUP WISDOM |
+| SPARTACUS CHEAPER |
+| SPINAL ROCKY |
+| SPLASH GUMP |
+| SUNSET RACER |
+| SUPER WYOMING |
+| VIRTUAL SPOILERS |
+| WILLOW TRACY |
++ ---------- +
+69 rows
+
+Execute:
+> SELECT title AS Title, freq.FREQCNT AS Frequency
+FROM film fl
+INNER JOIN (SELECT film_id, COUNT(rental_date) as FREQCNT
+FROM rental rntl
+INNER JOIN inventory inv
+ON rntl.inventory_id = inv.inventory_id
+GROUP BY film_id) freq
+ON fl.film_id = freq.film_id
+ORDER BY Frequency DESC
+
++ ---------- + -------------- +
+| Title      | Frequency      |
++ ---------- + -------------- +
+| BUCKET BROTHERHOOD | 34             |
+| ROCKETEER MOTHER | 33             |
+| GRIT CLOCKWORK | 32             |
+| JUGGLER HARDLY | 32             |
+| RIDGEMONT SUBMARINE | 32             |
+| SCALAWAG DUCK | 32             |
+| FORWARD TEMPLE | 32             |
+| NETWORK PEAK | 31             |
+| WIFE TURN  | 31             |
+| HOBBIT ALIEN | 31             |
+| GOODFELLAS SALUTE | 31             |
+| TIMBERLAND SKY | 31             |
+| ZORRO ARK  | 31             |
+| APACHE DIVINE | 31             |
+| ROBBERS JOON | 31             |
+| RUSH GOODFELLAS | 31             |
+| GRAFFITI LOVE | 30             |
+| MASSACRE USUAL | 30             |
+| FROST HEAD | 30             |
+| IDOLS SNATCHERS | 30             |
+| RUGRATS SHAKESPEARE | 30             |
+| SHOCK CABIN | 30             |
+| ENGLISH BULWORTH | 30             |
+| HARRY IDAHO | 30             |
+| MARRIED GO | 30             |
+| BUTTERFLY CHOCOLAT | 30             |
+| MUSCLE BRIGHT | 30             |
+| DOGMA FAMILY | 30             |
+| PULP BEVERLY | 30             |
+| CAT CONEHEADS | 30             |
+| SUSPECTS QUILLS | 30             |
+| WITCHES PANIC | 30             |
+| MOON BUNCH | 29             |
+| VIRGINIAN PLUTO | 29             |
+| CONFIDENTIAL INTERVIEW | 29             |
+| BINGO TALENTED | 29             |
+| ENEMY ODDS | 29             |
+| SWEETHEARTS SUSPECTS | 29             |
+| DEER VIRGINIAN | 29             |
+| FAMILY SWEET | 29             |
+| GLEAMING JAWBREAKER | 29             |
+| GREATEST NORTH | 29             |
+| STORM HAPPINESS | 29             |
+| TALENTED HOMICIDE | 29             |
+| VIDEOTAPE ARSENIC | 29             |
+| TITANS JERK | 29             |
+| BOOGIE AMELIE | 29             |
+| SATURDAY LAMBS | 28             |
+| GILMORE BOILED | 28             |
+| CLOSER BANG | 28             |
+| HANDICAP BOONDOCK | 28             |
+| STORY SIDE | 28             |
+| VOYAGE LEGALLY | 28             |
+| EXPENDABLE STALLION | 28             |
+| ROSES TREASURE | 28             |
+| TRIP NEWTON | 28             |
+| FATAL HAUNTED | 28             |
+| GIANT TROOPERS | 28             |
+| LOSE INCH  | 27             |
+| MOVIE SHAKESPEARE | 27             |
+| SWARM GOLD | 27             |
+| TELEGRAPH VOYAGE | 27             |
+| CURTAIN VIDEOTAPE | 27             |
+| GANGS PRIDE | 27             |
+| GOLDMINE TYCOON | 27             |
+| HORROR REIGN | 27             |
+| RANGE MOONWALKER | 27             |
+| CAMELOT VACATION | 27             |
+| LOATHING LEGALLY | 27             |
+| OPERATION OPERATION | 27             |
+| PRIMARY GLASS | 27             |
+| TORQUE BOUND | 27             |
+| WARDROBE PHANTOM | 27             |
+| DETECTIVE VISION | 27             |
+| DORADO NOTTING | 27             |
+| INVASION CYCLONE | 27             |
+| PRINCESS GIANT | 27             |
+| NONE SPIKING | 27             |
+| CHANCE RESURRECTION | 27             |
+| LIES TREATMENT | 27             |
+| SPY MILE   | 27             |
+| DANCING FEVER | 27             |
+| FORRESTER COMANCHEROS | 27             |
+| BLACKOUT PRIVATE | 27             |
+| HALF OUTFIELD | 26             |
+| PELICAN COMFORTS | 26             |
+| POCUS PULP | 26             |
+| CONTACT ANONYMOUS | 26             |
+| DISTURBING SCARFACE | 26             |
+| METROPOLIS COMA | 26             |
+| STAGECOACH ARMAGEDDON | 26             |
+| FELLOWSHIP AUTUMN | 26             |
+| SEABISCUIT PUNK | 26             |
+| VELVET TERMINATOR | 26             |
+| ALASKA PHANTOM | 26             |
+| INNOCENT USUAL | 26             |
+| TIGHTS DAWN | 26             |
+| COMA HEAD  | 26             |
+| HYDE DOCTOR | 26             |
+| PITY BOUND | 26             |
+| BROTHERHOOD BLANKET | 26             |
+| DURHAM PANKY | 26             |
+| FANTASY TROOPERS | 26             |
+| HANKY OCTOBER | 26             |
+| ISLAND EXORCIST | 26             |
+| TRACY CIDER | 26             |
+| WESTWARD SEABISCUIT | 26             |
+| MALKOVICH PET | 26             |
+| MALLRATS UNITED | 25             |
+| METAL ARMAGEDDON | 25             |
+| TOMORROW HUSTLER | 25             |
+| BARBARELLA STREETCAR | 25             |
+| DYNAMITE TARZAN | 25             |
+| HILLS NEIGHBORS | 25             |
+| SUN CONFESSIONS | 25             |
+| TELEMARK HEARTBREAKERS | 25             |
+| WORKING MICROCOSMOS | 25             |
+| STREETCAR INTENTIONS | 25             |
+| DOUBLE WRATH | 25             |
+| FEUD FROGMEN | 25             |
+| GUN BONNIE | 25             |
+| NIGHTMARE CHILL | 25             |
+| SHOW LORD  | 25             |
+| FISH OPUS  | 25             |
+| SAMURAI LION | 25             |
+| DOWNHILL ENOUGH | 25             |
+| MADNESS ATTACKS | 25             |
+| CLASH FREDDY | 25             |
+| CLUELESS BUCKET | 25             |
+| ESCAPE METROPOLIS | 25             |
+| OSCAR GOLD | 25             |
+| SHEPHERD MIDSUMMER | 25             |
+| TRADING PINOCCHIO | 25             |
+| CONEHEADS SMOOCHY | 25             |
+| EFFECT GLADIATOR | 25             |
+| GOLDFINGER SENSIBILITY | 24             |
+| HORN WORKING | 24             |
+| CELEBRITY HORN | 24             |
+| ALAMO VIDEOTAPE | 24             |
+| CENTER DINOSAUR | 24             |
+| HURRICANE AFFAIR | 24             |
+| JUMPING WRATH | 24             |
+| WEDDING APOLLO | 24             |
+| COLOR PHILADELPHIA | 24             |
+| JASON TRAP | 24             |
+| KNOCK WARLOCK | 24             |
+| ROMAN PUNK | 24             |
+| SHOOTIST SUPERFLY | 24             |
+| SUNRISE LEAGUE | 24             |
+| BOUND CHEAPER | 24             |
+| DRIFTER COMMANDMENTS | 24             |
+| LOLA AGENT | 24             |
+| MAIDEN HOME | 24             |
+| OZ LIAISONS | 24             |
+| SEATTLE EXPECATIONS | 24             |
+| ATLANTIS CAUSE | 24             |
+| GUNFIGHT MOON | 24             |
+| ORANGE GRAPES | 24             |
+| PACIFIC AMISTAD | 24             |
+| SLUMS DUCK | 24             |
+| ICE CROSSING | 24             |
+| ATTRACTION NEWTON | 24             |
+| CAPER MOTIONS | 24             |
+| FARGO GANDHI | 24             |
+| MOCKINGBIRD HOLLYWOOD | 24             |
+| SLEEPING SUSPECTS | 24             |
+| STRANGELOVE DESIRE | 24             |
+| ARACHNOPHOBIA ROLLERCOASTER | 24             |
+| OTHERS SOUP | 23             |
+| SCORPION APOLLO | 23             |
+| ALADDIN CALENDAR | 23             |
+| OUTBREAK DIVINE | 23             |
+| CARRIE BUNCH | 23             |
+| FREDDY STORM | 23             |
+| NAME DETECTIVE | 23             |
+| TROUBLE DATE | 23             |
+| WOMEN DORADO | 23             |
+| AFFAIR PREJUDICE | 23             |
+| CROOKED FROGMEN | 23             |
+| SNOWMAN ROLLERCOASTER | 23             |
+| TRUMAN CRAZY | 23             |
+| FOOL MOCKINGBIRD | 23             |
+| HEAVYWEIGHTS BEAST | 23             |
+| HOUSE DYNAMITE | 23             |
+| MURDER ANTITRUST | 23             |
+| PATTON INTERVIEW | 23             |
+| SALUTE APOLLO | 23             |
+| STRICTLY SCARFACE | 23             |
+| WIND PHANTOM | 23             |
+| BALLOON HOMEWARD | 23             |
+| CANDLES GRAPES | 23             |
+| EARTH VISION | 23             |
+| GENTLEMEN STAGE | 23             |
+| KARATE MOON | 23             |
+| KWAI HOMEWARD | 23             |
+| PHILADELPHIA WIFE | 23             |
+| TITANIC BOONDOCK | 23             |
+| WASH HEAVENLY | 23             |
+| EASY GLADIATOR | 23             |
+| FLAMINGOS CONNECTICUT | 23             |
+| STEEL SANTA | 23             |
+| YENTL IDAHO | 23             |
+| ACADEMY DINOSAUR | 23             |
+| CUPBOARD SINNERS | 23             |
+| HEAD STRANGER | 22             |
+| WHISPERER GIANT | 22             |
+| BLADE POLISH | 22             |
+| FIGHT JAWBREAKER | 22             |
+| KISS GLORY | 22             |
+| MALTESE HOPE | 22             |
+| SEA VIRGIN | 22             |
+| SNATCH SLIPPER | 22             |
+| BORROWERS BEDAZZLED | 22             |
+| EAGLES PANKY | 22             |
+| GRAPES FURY | 22             |
+| QUEEN LUKE | 22             |
+| SOUTH WAIT | 22             |
+| AMERICAN CIRCUS | 22             |
+| DREAM PICKUP | 22             |
+| FALCON VOLUME | 22             |
+| HOMICIDE PEACH | 22             |
+| HUSTLER PARTY | 22             |
+| LIAISONS SWEET | 22             |
+| SHAKESPEARE SADDLE | 22             |
+| TOURIST PELICAN | 22             |
+| CONGENIALITY QUEST | 22             |
+| MIDSUMMER GROUNDHOG | 22             |
+| VOLCANO TEXAS | 22             |
+| ALIEN CENTER | 22             |
+| BEAR GRACELAND | 22             |
+| CHICKEN HELLFIGHTERS | 22             |
+| SINNERS ATLANTIS | 22             |
+| WONDERLAND CHRISTMAS | 22             |
+| CHILL LUCK | 22             |
+| HAUNTING PIANIST | 22             |
+| PACKER MADIGAN | 22             |
+| ANGELS LIFE | 22             |
+| BEAUTY GREASE | 22             |
+| HIGH ENCINO | 22             |
+| ALTER VICTORY | 22             |
+| ANNIE IDENTITY | 22             |
+| BANGER PINOCCHIO | 22             |
+| FLATLINERS KILLER | 22             |
+| HIGHBALL POTTER | 21             |
+| SABRINA MIDNIGHT | 21             |
+| UNBREAKABLE KARATE | 21             |
+| AMADEUS HOLY | 21             |
+| ARIZONA BANG | 21             |
+| CHARIOTS CONSPIRACY | 21             |
+| COAST RAINBOW | 21             |
+| DOOM DANCING | 21             |
+| EGG IGBY   | 21             |
+| MOONSHINE CABIN | 21             |
+| OPEN AFRICAN | 21             |
+| SLEEPY JAPANESE | 21             |
+| STING PERSONAL | 21             |
+| WOLVES DESIRE | 21             |
+| ARMAGEDDON LOST | 21             |
+| CHRISTMAS MOONSHINE | 21             |
+| DECEIVER BETRAYED | 21             |
+| DIVIDE MONSTER | 21             |
+| PIRATES ROXANNE | 21             |
+| SLEUTH ORIENT | 21             |
+| UNDEFEATED DALMATIONS | 21             |
+| VACATION BOONDOCK | 21             |
+| BADMAN DAWN | 21             |
+| BASIC EASY | 21             |
+| CHAINSAW UPTOWN | 21             |
+| EXCITEMENT EVE | 21             |
+| GREASE YOUTH | 21             |
+| AMISTAD MIDSUMMER | 21             |
+| CROSSROADS CASUALTIES | 21             |
+| FIREBALL PHILADELPHIA | 21             |
+| SPLENDOR PATTON | 21             |
+| STAR OPERATION | 21             |
+| AGENT TRUMAN | 21             |
+| ANACONDA CONFESSIONS | 21             |
+| BERETS AGENT | 21             |
+| BLUES INSTINCT | 21             |
+| BROOKLYN DESERT | 21             |
+| RESURRECTION SILVERADO | 21             |
+| SECRET GROUNDHOG | 21             |
+| DRIVING POLISH | 21             |
+| GHOST GROUNDHOG | 21             |
+| PIANIST OUTFIELD | 21             |
+| BEVERLY OUTLAW | 21             |
+| EMPIRE MALKOVICH | 21             |
+| LEBOWSKI SOLDIERS | 21             |
+| MOURNING PURPLE | 21             |
+| SUIT WALLS | 21             |
+| WAIT CIDER | 21             |
+| CALENDAR GUNFIGHT | 21             |
+| CAUSE DATE | 21             |
+| DRACULA CRYSTAL | 21             |
+| FIDELITY DEVIL | 21             |
+| INTERVIEW LIAISONS | 20             |
+| MINDS TRUMAN | 20             |
+| NORTHWEST POLISH | 20             |
+| SLEEPLESS MONSOON | 20             |
+| STEPMOM DREAM | 20             |
+| CHOCOLAT HARRY | 20             |
+| HEARTBREAKERS BRIGHT | 20             |
+| PINOCCHIO SIMON | 20             |
+| REIGN GENTLEMEN | 20             |
+| CHASING FIGHT | 20             |
+| GARDEN ISLAND | 20             |
+| INTRIGUE WORST | 20             |
+| KISSING DOLLS | 20             |
+| OUTFIELD MASSACRE | 20             |
+| CHEAPER CLYDE | 20             |
+| FLYING HOOK | 20             |
+| HARPER DYING | 20             |
+| JERK PAYCHECK | 20             |
+| MONEY HAROLD | 20             |
+| QUEST MUSSOLINI | 20             |
+| RIVER OUTLAW | 20             |
+| TRAMP OTHERS | 20             |
+| BRINGING HYSTERICAL | 20             |
+| LOVE SUICIDES | 20             |
+| ROOM ROMAN | 20             |
+| DALMATIONS SWEDEN | 20             |
+| INSIDER ARIZONA | 20             |
+| JET NEIGHBORS | 20             |
+| WRONG BEHAVIOR | 20             |
+| DINOSAUR SECRETARY | 20             |
+| GO PURPLE  | 20             |
+| HELLFIGHTERS SIERRA | 20             |
+| HUNCHBACK IMPOSSIBLE | 20             |
+| KICK SAVANNAH | 20             |
+| REDEMPTION COMFORTS | 20             |
+| REUNION WITCHES | 20             |
+| SPICE SORORITY | 20             |
+| STRAIGHT HOURS | 20             |
+| MASKED BUBBLE | 20             |
+| MILLION ACE | 20             |
+| PEAK FOREVER | 20             |
+| PREJUDICE OLEANDER | 20             |
+| SECRETS PARADISE | 20             |
+| INDEPENDENCE HOTEL | 19             |
+| ROXANNE REBEL | 19             |
+| THIEF PELICAN | 19             |
+| TROJAN TOMORROW | 19             |
+| ENCOUNTERS CURTAIN | 19             |
+| EYES DRIVING | 19             |
+| MINE TITANS | 19             |
+| BACKLASH UNDEFEATED | 19             |
+| BILL OTHERS | 19             |
+| BRIDE INTRIGUE | 19             |
+| DETAILS PACKER | 19             |
+| DOORS PRESIDENT | 19             |
+| IGBY MAKER | 19             |
+| PATIENT SISTER | 19             |
+| SUNDANCE INVASION | 19             |
+| CAMPUS REMEMBER | 19             |
+| CIDER DESIRE | 19             |
+| CLONES PINOCCHIO | 19             |
+| HOURS RAGE | 19             |
+| NOVOCAINE FLIGHT | 19             |
+| POND SEATTLE | 19             |
+| REQUIEM TYCOON | 19             |
+| VOICE PEACH | 19             |
+| EARRING INSTINCT | 19             |
+| FURY MURDER | 19             |
+| GORGEOUS BINGO | 19             |
+| HONEY TIES | 19             |
+| NATIONAL STORY | 19             |
+| ROAD ROXANNE | 19             |
+| CLUB GRAFFITI | 19             |
+| DESERT POSEIDON | 19             |
+| FANTASIA PARK | 19             |
+| GABLES METROPOLIS | 19             |
+| HANGING DEEP | 19             |
+| MARS ROMAN | 19             |
+| SOMETHING DUCK | 19             |
+| CANYON STOCK | 19             |
+| FICTION CHRISTMAS | 19             |
+| JEDI BENEATH | 19             |
+| MUSIC BOONDOCK | 19             |
+| RAGE GAMES | 19             |
+| SHAWSHANK BUBBLE | 19             |
+| NEIGHBORS CHARADE | 19             |
+| DISCIPLE MOTHER | 19             |
+| ENCINO ELF | 19             |
+| JACKET FRISCO | 18             |
+| VANISHING ROCKY | 18             |
+| CAROL TEXAS | 18             |
+| GROOVE FICTION | 18             |
+| JADE BUNCH | 18             |
+| LION UNCUT | 18             |
+| POLISH BROOKLYN | 18             |
+| SWEDEN SHINING | 18             |
+| BAREFOOT MANCHURIAN | 18             |
+| DRAGONFLY STRANGERS | 18             |
+| HEAVEN FREEDOM | 18             |
+| POLLOCK DELIVERANCE | 18             |
+| REMEMBER DIARY | 18             |
+| BOULEVARD MOB | 18             |
+| GROUNDHOG UNCUT | 18             |
+| WEEKEND PERSONAL | 18             |
+| CANDIDATE PERDITION | 18             |
+| CORE SUIT  | 18             |
+| INSECTS STONE | 18             |
+| MISSION ZOOLANDER | 18             |
+| PARADISE SABRINA | 18             |
+| UNFORGIVEN ZOOLANDER | 18             |
+| DARN FORRESTER | 18             |
+| DRIVER ANNIE | 18             |
+| ENOUGH RAGING | 18             |
+| EXPECATIONS NATURAL | 18             |
+| RACER EGG  | 18             |
+| SCARFACE BANG | 18             |
+| FORREST SONS | 18             |
+| GALAXY SWEETHEARTS | 18             |
+| INSTINCT AIRPORT | 18             |
+| SECRETARY ROUGE | 18             |
+| WONKA SEA  | 18             |
+| AIRPORT POLLOCK | 18             |
+| ALONE TRIP | 18             |
+| BIRDS PERDITION | 18             |
+| HOPE TOOTSIE | 18             |
+| INCH JET   | 18             |
+| ROUGE SQUAD | 18             |
+| SMOKING BARBARELLA | 18             |
+| WHALE BIKINI | 18             |
+| CLEOPATRA DEVIL | 18             |
+| DAWN POND  | 18             |
+| JEKYLL FROGMEN | 17             |
+| SATISFACTION CONFIDENTIAL | 17             |
+| WATERFRONT DELIVERANCE | 17             |
+| FREAKY POCUS | 17             |
+| PERFECT GROOVE | 17             |
+| STRANGERS GRAFFITI | 17             |
+| EGYPT TENENBAUMS | 17             |
+| FACTORY DRAGON | 17             |
+| FLINTSTONES HAPPINESS | 17             |
+| JERICHO MULAN | 17             |
+| CONFUSED CANDLES | 17             |
+| CONVERSATION DOWNHILL | 17             |
+| FERRIS MOTHER | 17             |
+| LAWLESS VISION | 17             |
+| LOUISIANA HARRY | 17             |
+| MIDNIGHT WESTWARD | 17             |
+| NEWTON LABYRINTH | 17             |
+| REAR TRADING | 17             |
+| ZOOLANDER FICTION | 17             |
+| BEACH HEARTBREAKERS | 17             |
+| FRENCH HOLIDAY | 17             |
+| POSEIDON FOREVER | 17             |
+| LEAGUE HELLFIGHTERS | 17             |
+| MAJESTIC FLOATS | 17             |
+| ROOTS REMEMBER | 17             |
+| UNITED PILOT | 17             |
+| COMFORTS RUSH | 17             |
+| GREEK EVERYONE | 17             |
+| MASK PEACH | 17             |
+| NOON PAPI  | 17             |
+| ORIENT CLOSER | 17             |
+| POTTER CONNECTICUT | 17             |
+| SLACKER LIAISONS | 17             |
+| SUGAR WONKA | 17             |
+| TAXI KICK  | 17             |
+| HANOVER GALAXY | 17             |
+| HOLOCAUST HIGHBALL | 17             |
+| IDAHO LOVE | 17             |
+| INTENTIONS EMPIRE | 17             |
+| JOON NORTHWEST | 17             |
+| LADY STAGE | 17             |
+| MUSKETEERS WAIT | 17             |
+| ROCK INSTINCT | 17             |
+| TEEN APOLLO | 17             |
+| VIRGIN DAISY | 17             |
+| BIKINI BORROWERS | 17             |
+| BREAKFAST GOLDFINGER | 17             |
+| DYING MAKER | 17             |
+| GANDHI KWAI | 17             |
+| PILOT HOOSIERS | 16             |
+| PURE RUNNER | 16             |
+| SUMMER SCARFACE | 16             |
+| WANDA CHAMBER | 16             |
+| WIZARD COLDBLOODED | 16             |
+| CREATURES SHAKESPEARE | 16             |
+| DESTINY SATURDAY | 16             |
+| HALL CASSIDY | 16             |
+| INDIAN LOVE | 16             |
+| PRIDE ALAMO | 16             |
+| ROCKY WAR  | 16             |
+| VARSITY TRIP | 16             |
+| BULL SHAWSHANK | 16             |
+| COLDBLOODED DARLING | 16             |
+| HOMEWARD CIDER | 16             |
+| REAP UNFAITHFUL | 16             |
+| RULES HUMAN | 16             |
+| SAGEBRUSH CLUELESS | 16             |
+| SILENCE KANE | 16             |
+| STREAK RIDGEMONT | 16             |
+| ARMY FLINTSTONES | 16             |
+| CASABLANCA SUPER | 16             |
+| DUDE BLINDNESS | 16             |
+| GASLIGHT CRUSADE | 16             |
+| LOCK REAR  | 16             |
+| MUMMY CREATURES | 16             |
+| PATRIOT ROMAN | 16             |
+| WILLOW TRACY | 16             |
+| WORST BANGER | 16             |
+| ARTIST COLDBLOODED | 16             |
+| BAKED CLEOPATRA | 16             |
+| CHICAGO NORTH | 16             |
+| DAISY MENAGERIE | 16             |
+| QUILLS BULL | 16             |
+| SLIPPER FIDELITY | 16             |
+| MOTIONS DETAILS | 16             |
+| PAYCHECK WAIT | 16             |
+| TRAP GUYS  | 16             |
+| WEST LION  | 16             |
+| ATTACKS HATE | 16             |
+| CRAFT OUTFIELD | 16             |
+| MOULIN WAKE | 16             |
+| BONNIE HOLOCAUST | 16             |
+| CADDYSHACK JEDI | 16             |
+| COMMAND DARLING | 16             |
+| CONQUERER NUTS | 16             |
+| GRADUATE LORD | 16             |
+| JEEPERS WEDDING | 16             |
+| MERMAID INSECTS | 16             |
+| PICKUP DRIVING | 16             |
+| PLUTO OLEANDER | 16             |
+| UPRISING UPTOWN | 16             |
+| WATCH TRACY | 16             |
+| WORDS HUNTER | 16             |
+| SIEGE MADRE | 15             |
+| WORKER TARZAN | 15             |
+| HUNTING MUSKETEERS | 15             |
+| LOSER HUSTLER | 15             |
+| MODEL FISH | 15             |
+| PANKY SUBMARINE | 15             |
+| SHIP WONDERLAND | 15             |
+| SIERRA DIVIDE | 15             |
+| SPIRIT FLINTSTONES | 15             |
+| TOOTSIE PILOT | 15             |
+| ANTHEM LUKE | 15             |
+| CYCLONE FAMILY | 15             |
+| MANCHURIAN CURTAIN | 15             |
+| MODERN DORADO | 15             |
+| PANTHER REDS | 15             |
+| RINGS HEARTBREAKERS | 15             |
+| SWEET BROTHERHOOD | 15             |
+| DIVINE RESURRECTION | 15             |
+| HOLES BRANNIGAN | 15             |
+| ILLUSION AMELIE | 15             |
+| LUST LOCK  | 15             |
+| MOSQUITO ARMAGEDDON | 15             |
+| NASH CHOCOLAT | 15             |
+| DEVIL DESIRE | 15             |
+| HOLIDAY GAMES | 15             |
+| TRANSLATION SUMMER | 15             |
+| VALLEY PACKER | 15             |
+| CIRCUS YOUTH | 15             |
+| HUMAN GRAFFITI | 15             |
+| HYSTERICAL GRAIL | 15             |
+| MADISON TRAP | 15             |
+| MONSTER SPARTACUS | 15             |
+| SHREK LICENSE | 15             |
+| SUBMARINE BED | 15             |
+| AIRPLANE SIERRA | 15             |
+| BETRAYED REAR | 15             |
+| BOILED DARES | 15             |
+| CABIN FLASH | 15             |
+| ENTRAPMENT SATISFACTION | 15             |
+| LABYRINTH LEAGUE | 15             |
+| LONELY ELEPHANT | 15             |
+| NECKLACE OUTBREAK | 15             |
+| ODDS BOOGIE | 15             |
+| VIETNAM SMOOCHY | 15             |
+| WASTELAND DIVINE | 15             |
+| DIRTY ACE  | 15             |
+| EDGE KISSING | 15             |
+| SCISSORHANDS SLUMS | 15             |
+| SONS INTERVIEW | 15             |
+| STEERS ARMAGEDDON | 15             |
+| CHARADE DUFFEL | 15             |
+| NEMO CAMPUS | 14             |
+| CONFESSIONS MAGUIRE | 14             |
+| DAY UNFAITHFUL | 14             |
+| HOME PITY  | 14             |
+| NOTORIOUS REUNION | 14             |
+| SADDLE ANTITRUST | 14             |
+| TROOPERS METAL | 14             |
+| UNCUT SUICIDES | 14             |
+| VIRTUAL SPOILERS | 14             |
+| CREEPERS KANE | 14             |
+| PERSONAL LADYBUGS | 14             |
+| STOCK GLASS | 14             |
+| BLINDNESS GUN | 14             |
+| DEEP CRUSADE | 14             |
+| GLASS DYING | 14             |
+| HAMLET WISDOM | 14             |
+| OUTLAW HANKY | 14             |
+| SEARCHERS WAIT | 14             |
+| SPLASH GUMP | 14             |
+| STAMPEDE DISTURBING | 14             |
+| ELEPHANT TROJAN | 14             |
+| IMAGE PRINCESS | 14             |
+| KANE EXORCIST | 14             |
+| MOTHER OLEANDER | 14             |
+| SHANE DARKNESS | 14             |
+| TURN STAR  | 14             |
+| WEREWOLF LOLA | 14             |
+| WRATH MILE | 14             |
+| GREEDY ROOTS | 14             |
+| JAWS HARRY | 14             |
+| LOVELY JINGLE | 14             |
+| PARIS WEEKEND | 14             |
+| SHANGHAI TYCOON | 14             |
+| TOWN ARK   | 14             |
+| ALLEY EVOLUTION | 14             |
+| ANALYZE HOOSIERS | 14             |
+| DANCES NONE | 14             |
+| IMPOSSIBLE PREJUDICE | 14             |
+| PEACH INNOCENT | 14             |
+| SHRUNK DIVINE | 14             |
+| GAMES BOWFINGER | 14             |
+| GRINCH MASSAGE | 14             |
+| MADRE GABLES | 14             |
+| PAJAMA JAWBREAKER | 14             |
+| TOMATOES HELLFIGHTERS | 14             |
+| DONNIE ALLEY | 14             |
+| GOLD RIVER | 14             |
+| IDENTITY LOVER | 13             |
+| PAST SUICIDES | 13             |
+| SPINAL ROCKY | 13             |
+| ANONYMOUS HUMAN | 13             |
+| BEDAZZLED MARRIED | 13             |
+| BILKO ANONYMOUS | 13             |
+| BREAKING HOME | 13             |
+| DRUMS DYNAMITE | 13             |
+| EVERYONE CRAFT | 13             |
+| LUCKY FLYING | 13             |
+| MULAN MOON | 13             |
+| PURPLE MOVIE | 13             |
+| USUAL UNTOUCHABLES | 13             |
+| DARKNESS WAR | 13             |
+| MICROCOSMOS PARADISE | 13             |
+| MOONWALKER FOOL | 13             |
+| SATURN NAME | 13             |
+| BEHAVIOR RUNAWAY | 13             |
+| BRIGHT ENCOUNTERS | 13             |
+| DADDY PITTSBURGH | 13             |
+| OPPOSITE NECKLACE | 13             |
+| TENENBAUMS COMMAND | 13             |
+| CHAMBER ITALIAN | 13             |
+| CINCINATTI WHISPERER | 13             |
+| EXORCIST STING | 13             |
+| LAWRENCE LOVE | 13             |
+| CHAMPION FLATLINERS | 13             |
+| CONNECTICUT TRAMP | 13             |
+| FOREVER CANDIDATE | 13             |
+| HOOK CHARIOTS | 13             |
+| MEMENTO ZOOLANDER | 13             |
+| NATURAL STOCK | 13             |
+| STATE WASTELAND | 13             |
+| SUPER WYOMING | 13             |
+| TUXEDO MILE | 13             |
+| CITIZEN SHREK | 13             |
+| DATE SPEED | 13             |
+| HOLLYWOOD ANONYMOUS | 13             |
+| JINGLE SAGEBRUSH | 13             |
+| MILE MULAN | 13             |
+| MONTEREY LABYRINTH | 13             |
+| ROBBERY BRIGHT | 13             |
+| WYOMING STORM | 13             |
+| ARABIA DOGMA | 13             |
+| CHISUM BEHAVIOR | 13             |
+| EXPRESS LONELY | 13             |
+| FLASH WARS | 13             |
+| HUNGER ROOF | 13             |
+| PARTY KNOCK | 13             |
+| RAGING AIRPLANE | 13             |
+| SASSY PACKER | 13             |
+| SPIKING ELEMENT | 13             |
+| SMOOCHY CONTROL | 12             |
+| SORORITY QUEEN | 12             |
+| UPTOWN YOUNG | 12             |
+| BORN SPINAL | 12             |
+| CALIFORNIA BIRDS | 12             |
+| FLIGHT LIES | 12             |
+| MASSAGE IMAGE | 12             |
+| WAR NOTTING | 12             |
+| ADAPTATION HOLES | 12             |
+| BLANKET BEVERLY | 12             |
+| EVOLUTION ALTER | 12             |
+| FINDING ANACONDA | 12             |
+| LOST BIRD  | 12             |
+| MINORITY KISS | 12             |
+| TEMPLE ATTRACTION | 12             |
+| PITTSBURGH HUNCHBACK | 12             |
+| SAVANNAH TOWN | 12             |
+| SILVERADO GOLDFINGER | 12             |
+| VALENTINE VANISHING | 12             |
+| AFRICAN EGG | 12             |
+| LIBERTY MAGNIFICENT | 12             |
+| MEET CHOCOLATE | 12             |
+| SPEAKEASY DATE | 12             |
+| CROW GREASE | 12             |
+| HEDWIG ALTER | 12             |
+| MIGHTY LUCK | 12             |
+| VAMPIRE WHALE | 12             |
+| WINDOW SIDE | 12             |
+| BRANNIGAN SUNRISE | 12             |
+| GUNFIGHTER MUSSOLINI | 12             |
+| MOB DUFFEL | 12             |
+| LOVERBOY ATTACKS | 12             |
+| SIDE ARK   | 12             |
+| TYCOON GATHERING | 12             |
+| ALABAMA DEVIL | 12             |
+| DANGEROUS UPTOWN | 12             |
+| MOD SECRETARY | 11             |
+| REEF SALUTE | 11             |
+| STRANGER STRANGERS | 11             |
+| BUGSY SONG | 11             |
+| DRAGON SQUAD | 11             |
+| FEATHERS METAL | 11             |
+| THIN SAGEBRUSH | 11             |
+| BEETHOVEN EXORCIST | 11             |
+| ENDING CROWDS | 11             |
+| FUGITIVE MAGUIRE | 11             |
+| LANGUAGE COWBOY | 11             |
+| MAGNOLIA FORRESTER | 11             |
+| SPIRITED CASUALTIES | 11             |
+| TIES HUNGER | 11             |
+| TRAINSPOTTING STRANGERS | 11             |
+| DARKO DORADO | 11             |
+| STONE FIRE | 11             |
+| BIRCH ANTITRUST | 11             |
+| GATHERING CALENDAR | 11             |
+| IRON MOON  | 11             |
+| OPUS ICE   | 11             |
+| TOWERS HURRICANE | 11             |
+| BIRD INDEPENDENCE | 11             |
+| BOWFINGER GABLES | 11             |
+| FRIDA SLIPPER | 11             |
+| OCTOBER SUBMARINE | 11             |
+| POTLUCK MIXED | 11             |
+| PRIX UNDEFEATED | 11             |
+| BEAST HUNCHBACK | 11             |
+| SANTA PARIS | 11             |
+| SONG HEDWIG | 11             |
+| TWISTED PIRATES | 11             |
+| CRANES RESERVOIR | 11             |
+| LORD ARIZONA | 11             |
+| NORTH TEQUILA | 11             |
+| RIDER CADDYSHACK | 11             |
+| THEORY MERMAID | 11             |
+| AUTUMN CROW | 11             |
+| DRUMLINE CYCLONE | 11             |
+| LUCK OPUS  | 10             |
+| OLEANDER CLUE | 10             |
+| STAGE WORLD | 10             |
+| GRAIL FRANKENSTEIN | 10             |
+| JEOPARDY ENCINO | 10             |
+| LAMBS CINCINATTI | 10             |
+| MYSTIC TRUMAN | 10             |
+| PATHS CONTROL | 10             |
+| RIGHT CRANES | 10             |
+| SENSIBILITY REAR | 10             |
+| AMELIE HELLFIGHTERS | 10             |
+| CLOCKWORK PARADISE | 10             |
+| GONE TROUBLE | 10             |
+| HALLOWEEN NUTS | 10             |
+| NOTTING SPEAKEASY | 10             |
+| ROLLERCOASTER BRINGING | 10             |
+| ANTITRUST TOMATOES | 10             |
+| ELEMENT FREDDY | 10             |
+| RUN PACIFIC | 10             |
+| BENEATH RUSH | 10             |
+| BLOOD ARGONAUTS | 10             |
+| JAWBREAKER BROOKLYN | 10             |
+| MADIGAN DORADO | 10             |
+| RESERVOIR ADAPTATION | 10             |
+| WARS PLUTO | 10             |
+| DOUBTFIRE LABYRINTH | 10             |
+| HOLLOW JEOPARDY | 10             |
+| LOLITA WORLD | 10             |
+| SPOILERS HELLFIGHTERS | 10             |
+| ELIZABETH SHANE | 10             |
+| LOVER TRUMAN | 10             |
+| MAKER GABLES | 10             |
+| SMILE EARRING | 10             |
+| SUPERFLY TRIP | 10             |
+| WAGON JAWS | 10             |
+| FIDDLER LOST | 10             |
+| FROGMEN BREAKING | 10             |
+| LIFE TWISTED | 10             |
+| HOLY TADPOLE | 9              |
+| KING EVOLUTION | 9              |
+| LEGALLY SECRETARY | 9              |
+| RANDOM GO  | 9              |
+| DARES PLUTO | 9              |
+| GILBERT PELICAN | 9              |
+| INTOLERABLE INTENTIONS | 9              |
+| LEGEND JEDI | 9              |
+| HOTEL HAPPINESS | 9              |
+| MATRIX SNOWMAN | 9              |
+| SNATCHERS MONTEZUMA | 9              |
+| ZHIVAGO CORE | 9              |
+| JUNGLE CLOSER | 9              |
+| MAGUIRE APACHE | 9              |
+| MIRACLE VIRTUAL | 9              |
+| SPARTACUS CHEAPER | 9              |
+| WON DARES  | 9              |
+| ALI FOREVER | 9              |
+| ANYTHING SAVANNAH | 9              |
+| DARLING BREAKING | 9              |
+| KRAMER CHOCOLATE | 9              |
+| MONSOON CAUSE | 9              |
+| NUTS TIES  | 9              |
+| VICTORY ACADEMY | 9              |
+| WONDERFUL DROP | 9              |
+| DIARY PANIC | 9              |
+| IMPACT ALADDIN | 9              |
+| SPEED SUIT | 9              |
+| BIRDCAGE CASPER | 9              |
+| CASUALTIES ENCINO | 9              |
+| FRISCO FORREST | 9              |
+| PLATOON INSTINCT | 9              |
+| VANILLA DAY | 9              |
+| WISDOM WORKER | 9              |
+| DAUGHTER MADIGAN | 9              |
+| DOLLS RAGE | 9              |
+| DROP WATERFRONT | 9              |
+| DWARFS ALTER | 9              |
+| GHOSTBUSTERS ELF | 9              |
+| GUYS FALCON | 9              |
+| MONTEZUMA COMMAND | 9              |
+| REDS POCUS | 9              |
+| CARIBBEAN LIBERTY | 9              |
+| CRAZY HOME | 9              |
+| LIGHTS DEER | 8              |
+| SHINING ROSES | 8              |
+| BABY HALL  | 8              |
+| JUMANJI BLADE | 8              |
+| MAGNIFICENT CHITTY | 8              |
+| SOUP WISDOM | 8              |
+| GROSSE WONDERFUL | 8              |
+| HAROLD FRENCH | 8              |
+| WORLD LEATHERNECKS | 8              |
+| MAUDE MOD  | 8              |
+| PAPI NECKLACE | 8              |
+| PET HAUNTING | 8              |
+| SAINTS BRIDE | 8              |
+| UNFAITHFUL KILL | 8              |
+| VERTIGO NORTHWEST | 8              |
+| CASPER DRAGONFLY | 8              |
+| REBEL AIRPORT | 8              |
+| RUNAWAY TENENBAUMS | 8              |
+| SOLDIERS EVOLUTION | 8              |
+| SUNSET RACER | 8              |
+| GOSFORD DONNIE | 8              |
+| RECORDS ZORRO | 8              |
+| RUNNER MADIGAN | 8              |
+| TARZAN VIDEOTAPE | 8              |
+| BALLROOM MOCKINGBIRD | 8              |
+| DESIRE ALIEN | 8              |
+| HOOSIERS BIRDCAGE | 8              |
+| PARK CITIZEN | 8              |
+| UNTOUCHABLES SUNRISE | 8              |
+| CHAPLIN LICENSE | 8              |
+| CRUSADE HONEY | 8              |
+| GODFATHER DIARY | 8              |
+| PUNK DIVORCE | 8              |
+| CHITTY LOCK | 8              |
+| CLYDE THEORY | 8              |
+| DESTINATION JERK | 8              |
+| MAGIC MALLRATS | 7              |
+| PANIC CLUB | 7              |
+| PRESIDENT BANG | 7              |
+| SENSE GREEK | 7              |
+| YOUNG LANGUAGE | 7              |
+| ACE GOLDFINGER | 7              |
+| CLERKS ANGELS | 7              |
+| CONTROL ANTHEM | 7              |
+| LESSON CLEOPATRA | 7              |
+| LUKE MUMMY | 7              |
+| MULHOLLAND BEAST | 7              |
+| NEWSIES STORY | 7              |
+| STALLION SUNDANCE | 7              |
+| VISION TORQUE | 7              |
+| BULWORTH COMMANDMENTS | 7              |
+| EARLY HOME | 7              |
+| FIRE WOLVES | 7              |
+| HEAVENLY GUN | 7              |
+| DIVORCE SHINING | 7              |
+| DUFFEL APOCALYPSE | 7              |
+| COWBOY DOOM | 7              |
+| DOCTOR GRAIL | 7              |
+| ELF MURDER | 7              |
+| ISHTAR ROCKETEER | 7              |
+| LICENSE WEEKEND | 7              |
+| PIZZA JUMANJI | 7              |
+| CLUE GRAIL | 7              |
+| CONNECTION MICROCOSMOS | 7              |
+| CRUELTY UNFORGIVEN | 7              |
+| LEATHERNECKS DWARFS | 7              |
+| MENAGERIE RUSHMORE | 7              |
+| TREATMENT JEKYLL | 7              |
+| BANG KWAI  | 7              |
+| DOZEN LION | 7              |
+| HAWK CHILL | 7              |
+| SQUAD FISH | 7              |
+| VANISHED GARDEN | 7              |
+| EVE RESURRECTION | 7              |
+| HAPPINESS UNITED | 6              |
+| LADYBUGS ARMAGEDDON | 6              |
+| WATERSHIP FRONTIER | 6              |
+| YOUTH KICK | 6              |
+| DUCK RACER | 6              |
+| JAPANESE RUN | 6              |
+| WILD APOLLO | 6              |
+| SLING LUKE | 6              |
+| WARLOCK WEREWOLF | 6              |
+| JERSEY SASSY | 6              |
+| PHANTOM GLORY | 6              |
+| SIMON NORTH | 6              |
+| TEQUILA PAST | 6              |
+| CASSIDY WYOMING | 6              |
+| COMANCHEROS ENEMY | 6              |
+| DUMBO LUST | 6              |
+| HAUNTED ANTITRUST | 6              |
+| TERMINATOR CLUB | 6              |
+| APOCALYPSE FLAMINGOS | 6              |
+| GRACELAND DYNAMITE | 6              |
+| SCHOOL JACKET | 6              |
+| TEXAS WATCH | 6              |
+| BUBBLE GROSSE | 6              |
+| DESPERATE TRAINSPOTTING | 6              |
+| ITALIAN AFRICAN | 6              |
+| KILLER INNOCENT | 6              |
+| OKLAHOMA JUMANJI | 6              |
+| RUSHMORE MERMAID | 6              |
+| BED HIGHBALL | 6              |
+| EXTRAORDINARY CONQUERER | 6              |
+| FRONTIER CABIN | 6              |
+| HUNTER ALTER | 5              |
+| MUSSOLINI SPOILERS | 5              |
+| TRAFFIC HOBBIT | 5              |
+| INFORMER DOUBLE | 5              |
+| SEVEN SWARM | 5              |
+| FREEDOM CLEOPATRA | 5              |
+| FULL FLATLINERS | 5              |
+| MANNEQUIN WORST | 5              |
+| BUNCH MINDS | 5              |
+| PRIVATE DROP | 5              |
+| FEVER EMPIRE | 5              |
+| GLORY TRACY | 5              |
+| BRAVEHEART HUMAN | 5              |
+| CONSPIRACY SPIRIT | 5              |
+| HARDLY ROBBERS | 4              |
+| TRAIN BUNCH | 4              |
+| MIXED DOORS | 4              |
++ ---------- + -------------- +
+958 rows
+
+Execute:
+> SELECT a.store_id, SUM(a.amount)
+FROM (SELECT pmt.amount, st.store_id
+      FROM payment pmt
+      INNER JOIN staff st
+      ON pmt.staff_id = st.staff_id
+      ) a
+GROUP BY a.store_id
+
++ ------------- + ------------------ +
+| store_id      | SUM(a.amount)      |
++ ------------- + ------------------ +
+| 1             | 33489.47           |
+| 2             | 33927.04           |
++ ------------- + ------------------ +
+2 rows
+
+Execute:
+> SELECT a.store_id, cy.city, cy.country
+FROM (SELECT s.store_id, adr.address_id, adr.city_id
+      FROM store s
+      INNER JOIN address adr
+      ON s.address_id = adr.address_id
+      ) a
+INNER JOIN (SELECT co.country, ct.city_id, ct.city
+			FROM country co
+            INNER JOIN city ct
+            ON co.country_id = ct.country_id
+            ) cy
+ON a.city_id = cy.city_id
+
++ ------------- + --------- + ------------ +
+| store_id      | city      | country      |
++ ------------- + --------- + ------------ +
+| 1             | Lethbridge | Canada       |
+| 2             | Woodridge | Australia    |
++ ------------- + --------- + ------------ +
+2 rows
+
+Execute:
+> CREATE VIEW `top_give_genres` AS SELECT cat.name as Genre, sum(pmnt.amount) AS "Gross Revenue"
+FROM category cat
+INNER JOIN (SELECT inv.inventory_id, fc.category_id
+            FROM inventory inv
+            INNER JOIN film_category fc
+            ON inv.film_id = fc.film_id) filmcat
+ON cat.category_id = filmcat.category_id
+INNER JOIN (SELECT xmnt.amount, rntl.inventory_id
+            FROM payment xmnt
+            INNER JOIN rental rntl
+            ON xmnt.rental_id = rntl.rental_id) pmnt
+ON filmcat.inventory_id = pmnt.inventory_id
+GROUP BY cat.name
+ORDER BY sum(pmnt.amount) DESC
+LIMIT 5
+
++ ---------- + ------------------ +
+| Genre      | Gross Revenue      |
++ ---------- + ------------------ +
+| Sports     | 5314.21            |
+| Sci-Fi     | 4756.98            |
+| Animation  | 4656.30            |
+| Drama      | 4587.39            |
+| Comedy     | 4383.58            |
++ ---------- + ------------------ +
+5 rows
+
+Execute:
+> SELECT * FROM top_give_genres
+
++ ---------- + ------------------ +
+| Genre      | Gross Revenue      |
++ ---------- + ------------------ +
+| Sports     | 5314.21            |
+| Sci-Fi     | 4756.98            |
+| Animation  | 4656.30            |
+| Drama      | 4587.39            |
+| Comedy     | 4383.58            |
++ ---------- + ------------------ +
+5 rows
+
+> DROP VIEW top_give_genres	0 row(s) affected	0.015 sec
+
+
