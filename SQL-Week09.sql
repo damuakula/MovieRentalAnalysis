@@ -79,7 +79,7 @@ SELECT s.staff_id AS "Staff Member", SUM(p.amount) AS "Total Amount"
 FROM staff s
 INNER JOIN (SELECT staff_id, amount
 			FROM payment
-            WHERE payment_date >= '2005-08-01' AND payment_date <= '2005-08-31') p
+            WHERE MONTH(payment_date) = 8 AND YEAR(payment_date) = 2005) p
 ON s.staff_id = p.staff_id
 GROUP BY s.staff_id;
 
@@ -208,7 +208,7 @@ LIMIT 5;
 /* In your new role as an executive, you would like to have an easy way of viewing the Top five genres by gross revenue. 
    Use the solution from the problem above to create a view. If you haven't solved 7h, you can substitute another query 
    to create a view.*/
-CREATE VIEW `top_five_genres` AS
+CREATE VIEW `vw_top_five_genres` AS
 SELECT cat.name as Genre, sum(pmnt.amount) AS "Gross Revenue"
 FROM category cat
 INNER JOIN (SELECT inv.inventory_id, fc.category_id
@@ -226,10 +226,10 @@ ORDER BY sum(pmnt.amount) DESC
 LIMIT 5;
 
 #How would you display the view that you just created for Top five genres?
-SELECT * FROM top_five_genres;
+SELECT * FROM vw_top_five_genres;
 
 #You find that you no longer need the view top_five_genres. Write a query to delete it.
-DROP VIEW top_five_genres;
+DROP VIEW vw_top_five_genres;
 
 
 
